@@ -1,4 +1,4 @@
-#domainname           #backendname
+#L2 
 intl2uatapi.sgamesuat.com l2_api_nodes_uat
 intl2uatresult.sgamesuat.com l2_game_round_result_nodes_uat
 intl2sitapi.sgamesuat.com l2_api_nodes_sit
