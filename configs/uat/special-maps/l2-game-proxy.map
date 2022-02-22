@@ -26,7 +26,7 @@
 /uat/minikeno/ l2_mini_keno_nodes_UAT
 /uat/kenopower/ l2_keno_power_nodes_UAT
 /uat/casinoholdempoker/ default_backend_nodes
-/uat/bitcoinmaster/ l2_bitcoin_master_nodes_UAT
+/uat/bitcoinmaster/ l2_bitcoin_master_service_nodes_UAT
 /uat/luckywheel/ l2_lucky_wheel_nodes_UAT
 /sit/main/ l2_game_server_nodes_SIT
 /sit/sedie/ l2_sedie_nodes_SIT
@@ -56,5 +56,5 @@
 /sit/minikeno/ l2_mini_keno_nodes_SIT
 /sit/kenopower/ l2_keno_power_nodes_SIT
 /sit/casinoholdempoker/ default_backend_nodes
-/sit/bitcoinmaster/ l2_bitcoin_master_nodes_SIT
+/sit/bitcoinmaster/ l2_bitcoin_master_service_nodes_UAT
 /sit/luckywheel/ l2_lucky_wheel_nodes_SIT
