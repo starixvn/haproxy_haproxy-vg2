@@ -11,6 +11,7 @@ l2-ows.lumigame.com l2_owapi_simulator_nodes
 l2-result.lumigame.com l2_game_result_nodes
 l2-guide.lumigame.com l2_game_guides_nodes
 l2-gw.lumigame.com l2_socket_gateway_nodes
+l2-mini.lumigame.com l2_instant_game_client_nodes
 
 #L2 LOCAL1
 l2-m1.lumigame.com l2_game_client_mobi_nodes_1
