@@ -19,3 +19,5 @@ result2.v-gaming.net l2_game_round_result_nodes
 api2.v-gaming.net l2_api_nodes
 www2.v-gaming.net l2_game_client_nodes
 gw2.v-gaming.net l2_socket_gateway_PROD_nodes
+mini.v-gaming.net l2_instant_game_client_nodes_PROD
+mini2.v-gaming.net l2_instant_game_client_nodes_PROD
