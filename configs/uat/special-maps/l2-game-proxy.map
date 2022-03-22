@@ -28,6 +28,7 @@
 /uat/casinoholdempoker/ l2_casino_holdem_poker_nodes_UAT
 /uat/bitcoinmaster/ l2_bitcoin_master_service_nodes_UAT
 /uat/luckywheel/ l2_lucky_wheel_nodes_UAT
+/uat/notification/ l2_notification_service_UAT_be
 /sit/main/ l2_game_server_nodes_SIT
 /sit/sedie/ l2_sedie_nodes_SIT
 /sit/vsedie/ l2_vip_sedie_nodes_SIT
@@ -58,3 +59,4 @@
 /sit/casinoholdempoker/ l2_casino_holdem_poker_nodes_SIT
 /sit/bitcoinmaster/ l2_bitcoin_master_service_nodes_SIT
 /sit/luckywheel/ l2_lucky_wheel_nodes_SIT
+/sit/notification/ l2_notification_service_SIT_be
