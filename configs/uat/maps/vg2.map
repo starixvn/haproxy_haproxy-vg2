@@ -5,10 +5,10 @@ l2sitadm.sgamesuat.com l2_admin_site_SIT_be
 l2sitresult.sgamesuat.com l2_game_result_SIT_be
 l2sitm.sgamesuat.com l2_game_client_mobi_SIT_be
 l2guidessit.sgamesuat.com l2_game_guides_SIT_be
-l2soccersit.sgamesuat.com default_backend_nodes
+#l2soccersit.sgamesuat.com default_backend_nodes
 l2minisit.sgamesuat.com l2_instant_game_client_SIT_be
 l2gwsit.sgamesuat.com l2_socket_gateway_SIT_be
-l2newssit.sgamesuat.com default_backend_nodes
+#l2newssit.sgamesuat.com default_backend_nodes
 intl2sitapi.sgamesuat.com l2_game_api_SIT_be
 intl2sitresult.sgamesuat.com l2_game_result_SIT_be
 
@@ -19,9 +19,9 @@ l2uatadm.sgamesuat.com l2_admin_site_UAT_be
 l2uatresult.sgamesuat.com l2_game_result_UAT_be
 l2uatm.sgamesuat.com l2_game_client_mobi_UAT_be
 l2guidesuat.sgamesuat.com l2_game_guides_UAT_be
-l2socceruat.sgamesuat.com default_backend_nodes
+#l2socceruat.sgamesuat.com default_backend_nodes
 l2miniuat.sgamesuat.com l2_instant_game_client_UAT_be
 l2gwuat.sgamesuat.com l2_socket_gateway_UAT_be
-l2newsuat.sgamesuat.com default_backend_nodes
+#l2newsuat.sgamesuat.com default_backend_nodes
 intl2uatapi.sgamesuat.com l2_game_api_UAT_be
 intl2uatresult.sgamesuat.com l2_game_result_UAT_be
