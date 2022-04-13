@@ -30,6 +30,7 @@
 /uat/bitcoinmaster/ l2_bitcoin_master_service_UAT_be
 /uat/luckywheel/ l2_lucky_wheel_service_UAT_be
 /uat/notification/ l2_notification_service_UAT_be
+/uat/texasholdempoker/ l2_texas_holdem_poker_service_UAT_be
 
 ###SIT
 /sit/main/ l2_game_server_SIT_be
@@ -63,3 +64,4 @@
 /sit/bitcoinmaster/ l2_bitcoin_master_service_SIT_be
 /sit/luckywheel/ l2_lucky_wheel_service_SIT_be
 /sit/notification/ l2_notification_service_SIT_be
+/sit/texasholdempoker/ l2_texas_holdem_poker_service_SIT_be
