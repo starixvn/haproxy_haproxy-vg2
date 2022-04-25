@@ -67,3 +67,4 @@
 /sit/notification/ l2_notification_service_SIT_be
 /sit/texasholdempoker/ l2_texas_holdem_poker_service_SIT_be
 /sit/hilo/ l2_hilo_service_SIT_be
+/sit/monitoring/ l2_admin_monitoring_site_SIT_be
