@@ -32,6 +32,7 @@
 /uat/notification/ l2_notification_service_UAT_be
 /uat/texasholdempoker/ l2_texas_holdem_poker_service_UAT_be
 /uat/hilo/ l2_hilo_service_UAT_be
+/uat/monitoring/ l2_admin_monitoring_site_UAT_be
 
 ###SIT
 /sit/main/ l2_game_server_SIT_be
