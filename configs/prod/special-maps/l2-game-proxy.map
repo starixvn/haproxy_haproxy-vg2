@@ -30,4 +30,5 @@
 /bitcoinmaster/ l2_bitcoin_master_service_PROD_be
 /notification/ l2_notification_service_PROD_be
 /monitoring/ l2_admin_monitoring_site_PROD_be
+/hilo/ l2_hilo_service_PROD_be
 
