@@ -32,3 +32,4 @@
 /monitoring/ l2_admin_monitoring_site_PROD_be
 /hilo/ l2_hilo_service_PROD_be
 /texasholdempoker/ l2_texas_holdem_poker_service_PROD_be
+/nightclub/ l2_night_club_service_PROD_be
