@@ -31,7 +31,6 @@
 /hilo/ l2_hilo_service_LOCAL_be
 /texasholdempoker/ l2_texas_holdem_poker_service_LOCAL_be
 /monitoring/ l2_admin_monitoring_site_LOCAL_be
-/monitoring-test/ l2_vg2_admin_monitoring_site_LOCAL_be
 /nightclub/ l2_night_club_service_LOCAL_be
 /game-client-47/ l2_treasure_island_client_LOCAL_be
 /treasureisland/ l2_treasure_island_service_LOCAL_be
