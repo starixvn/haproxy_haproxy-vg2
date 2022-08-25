@@ -1,6 +1,6 @@
 #SIT - L2
 l2sit.sgamesuat.com l2_game_client_SIT_be
-l2sitapi.sgamesuat.com l2_game_api_SIT_be
+l2sitapi.sgamesuat.com l2_sg_api_SIT_be
 l2sitadm.sgamesuat.com l2_admin_site_SIT_be
 l2sitresult.sgamesuat.com l2_game_result_SIT_be
 l2sitm.sgamesuat.com l2_game_client_mobi_SIT_be
@@ -9,7 +9,7 @@ l2soccersit.sgamesuat.com default_backend_nodes
 l2minisit.sgamesuat.com l2_instant_game_client_SIT_be
 l2gwsit.sgamesuat.com l2_socket_gateway_SIT_be
 l2newssit.sgamesuat.com default_backend_nodes
-intl2sitapi.sgamesuat.com l2_game_api_SIT_be
+intl2sitapi.sgamesuat.com l2_sg_api_SIT_be
 intl2sitresult.sgamesuat.com l2_game_result_SIT_be
 
 #UAT - L2
