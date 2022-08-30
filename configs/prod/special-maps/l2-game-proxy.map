@@ -35,3 +35,5 @@
 /nightclub/ l2_night_club_service_PROD_be
 /game-client-47/ l2_treasure_island_client_PROD_be
 /treasureisland/ l2_treasure_island_service_PROD_be
+/blockchainbaccarat/ l2_blockchain_baccarat_service_PROD_be
+/game-client-48/ l2_blockchain_baccarat_client_PROD_be
