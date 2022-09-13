@@ -38,3 +38,4 @@
 /game-client-48/ l2_blockchain_baccarat_client_LOCAL_be
 /unbalancedbigsmall/ l2_unbalanced_bigsmall_service_LOCAL_be
 /game-client-50/ l2_unbalanced_bigsmall_client_LOCAL_be
+/game/ l2_game_configuration_service_LOCAL_be
