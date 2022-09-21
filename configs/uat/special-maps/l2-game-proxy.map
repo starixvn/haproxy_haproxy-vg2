@@ -38,6 +38,8 @@
 /uat/treasureisland/ l2_treasure_island_service_UAT_be
 /uat/game-client-48/ l2_blockchain_baccarat_client_UAT_be
 /uat/blockchainbaccarat/ l2_blockchain_baccarat_service_UAT_be
+/uat/unbalancedbigsmall/ l2_unbalanced_bigsmall_service_UAT_be
+/uat/game-client-50/ l2_unbalanced_bigsmall_client_UAT_be
 
 ###SIT
 /sit/main/ l2_game_server_SIT_be
@@ -79,4 +81,5 @@
 /sit/treasureisland/ l2_treasure_island_service_SIT_be
 /sit/game-client-48/ l2_blockchain_baccarat_client_SIT_be
 /sit/blockchainbaccarat/ l2_blockchain_baccarat_service_SIT_be
-
+/sit/unbalancedbigsmall/ l2_unbalanced_bigsmall_service_SIT_be
+/sit/game-client-50/ l2_unbalanced_bigsmall_client_SIT_be
