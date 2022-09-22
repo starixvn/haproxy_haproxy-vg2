@@ -42,6 +42,7 @@
 /uat/game-client-50/ l2_unbalanced_bigsmall_client_UAT_be
 /uat/game/ l2_game_configuration_service_UAT_be
 /uat/waytogoal/ l2_way_to_goal_service_UAT_be
+/uat/game-client-49/ l2_way_to_goal_client_UAT_be
 
 ###SIT
 /sit/main/ l2_game_server_SIT_be
@@ -87,3 +88,4 @@
 /sit/game-client-50/ l2_unbalanced_bigsmall_client_SIT_be
 /sit/game/ l2_game_configuration_service_SIT_be
 /sit/waytogoal/ l2_way_to_goal_service_SIT_be
+/sit/game-client-49/ l2_way_to_goal_client_SIT_be
