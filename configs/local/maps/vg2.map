@@ -4,8 +4,8 @@ l2-m.lumigame.com l2_game_client_mobi_LOCAL_be
 l2-games.lumigame.com l2_game_client_LOCAL_be
 l2-api.lumigame.com l2_sg_api_LOCAL_be
 l2-auth.lumigame.com l2_auth_api_LOCAL_be
-l2-admin.lumigame.com l2_vg2_admin_site_LOCAL_be
-l2-admin-api.lumigame.com l2_vg2_admin_api_LOCAL_be
+l2-admin.lumigame.com l2_admin_site_LOCAL_be
+l2-admin-api.lumigame.com l2_admin_api_LOCAL_be
 l2-glbs.lumigame.com l2_game_lobby_simulator_LOCAL_be
 l2-ows.lumigame.com l2_ow_api_simulator_LOCAL_be
 l2-result.lumigame.com l2_game_result_LOCAL_be
@@ -18,8 +18,8 @@ l2-m1.lumigame.com l2_game_client_mobi_LOCAL_1_be
 l2-games1.lumigame.com l2_game_client_LOCAL_1_be
 l2-api1.lumigame.com l2_sg_api_LOCAL_1_be
 l2-auth1.lumigame.com l2_auth_api_LOCAL_1_be
-l2-admin1.lumigame.com l2_vg2_admin_site_LOCAL_1_be
-l2-admin-api1.lumigame.com l2_vg2_admin_api_LOCAL_1_be
+l2-admin1.lumigame.com l2_admin_site_LOCAL_1_be
+l2-admin-api1.lumigame.com l2_admin_api_LOCAL_1_be
 l2-glbs1.lumigame.com l2_game_lobby_simulator_LOCAL_1_be
 l2-ows1.lumigame.com l2_ow_api_simulator_LOCAL_1_be
 l2-result1.lumigame.com l2_vg2_game_result_LOCAL_1_be
