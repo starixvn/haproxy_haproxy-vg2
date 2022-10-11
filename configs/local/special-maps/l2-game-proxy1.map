@@ -30,8 +30,15 @@
 /notification/ l2_notification_service_LOCAL_1_be
 /hilo/ l2_hilo_service_LOCAL_1_be
 /texasholdempoker/ l2_texas_holdem_poker_service_LOCAL_1_be
-/monitoring/ l2_admin_monitoring_site_LOCAL_1_be
+/monitoring/ l2_vg2_admin_monitoring_site_LOCAL_1_be
 /nightclub/ l2_night_club_service_LOCAL_1_be
 /game-client-47/ l2_treasure_island_client_LOCAL_1_be
 /treasureisland/ l2_treasure_island_service_LOCAL_1_be
-/blockchainbaccarat/ l2_vg2_blockchain_baccarat_service_LOCAL_1_be
+/blockchainbaccarat/ l2_blockchain_baccarat_service_LOCAL_1_be
+/game-client-48/ l2_blockchain_baccarat_client_LOCAL_1_be
+/unbalancedbigsmall/ l2_unbalanced_bigsmall_service_LOCAL_1_be
+/game-client-50/ l2_unbalanced_bigsmall_client_LOCAL_1_be
+/game/ l2_game_configuration_service_LOCAL_1_be
+/waytogoal/ l2_way_to_goal_service_LOCAL_1_be
+/game-client-49/ l2_way_to_goal_client_LOCAL_1_be
+/game-client-9/ l2_mini_sedie_client_LOCAL_1_be

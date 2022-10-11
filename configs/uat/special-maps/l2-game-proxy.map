@@ -36,6 +36,14 @@
 /uat/nightclub/ l2_night_club_service_UAT_be
 /uat/game-client-47/ l2_treasure_island_client_UAT_be
 /uat/treasureisland/ l2_treasure_island_service_UAT_be
+/uat/game-client-48/ l2_blockchain_baccarat_client_UAT_be
+/uat/blockchainbaccarat/ l2_blockchain_baccarat_service_UAT_be
+/uat/unbalancedbigsmall/ l2_unbalanced_bigsmall_service_UAT_be
+/uat/game-client-50/ l2_unbalanced_bigsmall_client_UAT_be
+/uat/game/ l2_game_configuration_service_UAT_be
+/uat/waytogoal/ l2_way_to_goal_service_UAT_be
+/uat/game-client-49/ l2_way_to_goal_client_UAT_be
+/uat/game-client-9/ l2_mini_sedie_client_UAT_be
 
 ###SIT
 /sit/main/ l2_game_server_SIT_be
@@ -75,3 +83,11 @@
 /sit/nightclub/ l2_night_club_service_SIT_be
 /sit/game-client-47/ l2_treasure_island_client_SIT_be
 /sit/treasureisland/ l2_treasure_island_service_SIT_be
+/sit/game-client-48/ l2_blockchain_baccarat_client_SIT_be
+/sit/blockchainbaccarat/ l2_blockchain_baccarat_service_SIT_be
+/sit/unbalancedbigsmall/ l2_unbalanced_bigsmall_service_SIT_be
+/sit/game-client-50/ l2_unbalanced_bigsmall_client_SIT_be
+/sit/game/ l2_game_configuration_service_SIT_be
+/sit/waytogoal/ l2_way_to_goal_service_SIT_be
+/sit/game-client-49/ l2_way_to_goal_client_SIT_be
+/sit/game-client-9/ l2_mini_sedie_client_SIT_be
