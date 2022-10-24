@@ -11,6 +11,7 @@ l2gwsit.sgamesuat.com l2_socket_gateway_SIT_be
 l2newssit.sgamesuat.com default_backend_nodes
 intl2sitapi.sgamesuat.com l2_sg_api_SIT_be
 intl2sitresult.sgamesuat.com l2_game_result_SIT_be
+l2sitkeno.sgamesuat.com l2_game_client_mega_keno_mobi_SIT_be
 
 #UAT - L2
 l2uat.sgamesuat.com l2_game_client_UAT_be
@@ -25,3 +26,4 @@ l2gwuat.sgamesuat.com l2_socket_gateway_UAT_be
 l2newsuat.sgamesuat.com default_backend_nodes
 intl2uatapi.sgamesuat.com l2_sg_api_UAT_be
 intl2uatresult.sgamesuat.com l2_game_result_UAT_be
+l2uatkeno.sgamesuat.com l2_game_client_mega_keno_mobi_UAT_be
