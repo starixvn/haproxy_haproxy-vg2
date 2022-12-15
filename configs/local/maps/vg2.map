@@ -1,5 +1,3 @@
-l2-proxy1.lumigame.com pentagon_l2_fantan_service_LOCAL_1_be
-l2-proxy.lumigame.com pentagon_l2_fantan_service_LOCAL_be
 #domainname           #backendname
 #L2 LOCAL
 l2-m.lumigame.com l2_game_client_mobi_LOCAL_be
