@@ -1,3 +1,4 @@
+^/fortunecat(/.*)?$ pentagon_l2_fortune_cat_service_LOCAL_1_path_be
 ^/fantan(/.*)?$ pentagon_l2_fantan_service_LOCAL_1_path_be
 ^/main/ l2_game_server_LOCAL_1_be
 ^/sedie/ l2_sedie_service_LOCAL_1_be
