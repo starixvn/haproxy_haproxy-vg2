@@ -1,3 +1,5 @@
+^/sit/fantan(/.*)?$ pentagon_l2_fantan_service_SIT_path_be
+^/uat/fantan(/.*)?$ pentagon_l2_fantan_service_UAT_path_be
 ###UAT
 ^/uat/main/ l2_game_server_UAT_be
 ^/uat/sedie/ l2_sedie_service_UAT_be
@@ -101,4 +103,3 @@
 ^/sit/game-client-59/ l2_fruit_slot_client_SIT_be
 ^/sit/game-client-60/ l2_fantan_client_SIT_be
 ^/sit/game-client-62/ l2_fortune_cat_client_SIT_be
-
