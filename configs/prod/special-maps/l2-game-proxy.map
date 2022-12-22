@@ -47,3 +47,4 @@
 /game-client-59/ l2_fruit_slot_client_PROD_be
 /fruitslot/ l2_fruit_slot_service_PROD_be
 /game-client-60/ l2_fantan_client_PROD_be
+/fantan/ l2_fantan_service_PROD_be
