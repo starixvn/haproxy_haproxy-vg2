@@ -1,3 +1,5 @@
+^/sit/winthreecards(/.*)?$ pentagon_l2_win_three_cards_service_SIT_path_be
+^/uat/winthreecards(/.*)?$ pentagon_l2_win_three_cards_service_UAT_path_be
 ^/sit/game-client-61/versions.json(/.*)?$ pentagon_l2_win_three_cards_client_SIT_path_be
 ^/uat/game-client-61/versions.json(/.*)?$ pentagon_l2_win_three_cards_client_UAT_path_be
 ^/sit/fortunecat(/.*)?$ pentagon_l2_fortune_cat_service_SIT_path_be
