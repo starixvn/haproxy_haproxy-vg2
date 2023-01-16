@@ -1,5 +1,5 @@
+^/game-client-61(/.*)?$ pentagon_l2_win_three_cards_client_LOCAL_1_path_be
 ^/winthreecards(/.*)?$ pentagon_l2_win_three_cards_service_LOCAL_1_path_be
-^/game-client-61/versions.json(/.*)?$ pentagon_l2_win_three_cards_client_LOCAL_1_path_be
 ^/fortunecat(/.*)?$ pentagon_l2_fortune_cat_service_LOCAL_1_path_be
 ^/fantan(/.*)?$ pentagon_l2_fantan_service_LOCAL_1_path_be
 ^/main/ l2_game_server_LOCAL_1_be
