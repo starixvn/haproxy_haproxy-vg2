@@ -50,3 +50,5 @@
 /fantan/ l2_fantan_service_PROD_be
 /game-client-62/ l2_fortune_cat_client_PROD_be
 /fortunecat/ l2_fortune_cat_service_PROD_be
+/game-client-61/ l2_win_three_cards_client_PROD_be
+/winthreecards/ l2_win_three_cards_service_PROD_be
