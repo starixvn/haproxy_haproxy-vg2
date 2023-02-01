@@ -1,3 +1,4 @@
+^/game-client-62(/.*)?$ pentagon_l2_fortune_cat_client_LOCAL_1_path_be
 ^/game-client-61(/.*)?$ pentagon_l2_win_three_cards_client_LOCAL_1_path_be
 ^/winthreecards(/.*)?$ pentagon_l2_win_three_cards_service_LOCAL_1_path_be
 ^/fortunecat(/.*)?$ pentagon_l2_fortune_cat_service_LOCAL_1_path_be
@@ -50,4 +51,3 @@
 ^/game-client-59/ l2_fruit_slot_client_LOCAL_1_be
 ^/fruitslot/ l2_fruit_slot_service_LOCAL_1_be
 ^/game-client-60/ l2_fantan_client_LOCAL_1_be
-^/game-client-62/ l2_fortune_cat_client_LOCAL_1_be
