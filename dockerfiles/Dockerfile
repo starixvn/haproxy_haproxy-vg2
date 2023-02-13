@@ -19,7 +19,7 @@ RUN ls /usr/local/etc/haproxy/configs/$ENV
 RUN cat /usr/local/etc/haproxy/configs/$ENV/*.cfg > /usr/local/etc/haproxy/configs/$ENV/haproxy.cfg.tmp
 RUN cp /usr/local/etc/haproxy/configs/$ENV/haproxy.cfg.tmp /usr/local/etc/haproxy/haproxy.cfg
 RUN cp /srv/haproxy-default/whitelisted.ips /etc/haproxy/whitelisted.ips
-RUN cp /srv/haproxy-default/certs/lumigame.com.pem /etc/haproxy/lumigame.com.pem
+RUN cp /srv/haproxy-default/certs/*.pem /etc/haproxy/
 RUN mkdir /usr/local/etc/haproxy/maps
 RUN cat /usr/local/etc/haproxy/configs/$ENV/maps/*.map > /usr/local/etc/haproxy/maps/hosts.map
 RUN if [ -e /usr/local/etc/haproxy/configs/$ENV/special-maps ] ; then cp /usr/local/etc/haproxy/configs/$ENV/special-maps/* /usr/local/etc/haproxy/maps/ ; fi ;
