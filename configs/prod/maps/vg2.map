@@ -19,3 +19,25 @@ mini.v-gaming.net l2_instant_game_client_PROD_be
 mini2.v-gaming.net l2_instant_game_client_PROD_be
 keno.v-gaming.net l2_game_client_mega_keno_mobi_PROD_be
 keno2.v-gaming.net l2_game_client_mega_keno_mobi_PROD_be
+
+#VG2 Internal
+intapi.vgaming.win l2_sg_api_PROD_be
+intresult.vgaming.win l2_game_round_result_PROD_be
+
+#VG2
+www.vgaming.win l2_game_client_PROD_be
+result.vgaming.win l2_game_round_result_PROD_be
+api.vgaming.win l2_sg_api_PROD_be
+m.vgaming.win l2_game_client_mobi_PROD_be
+guides.vgaming.win l2_game_guides_PROD_be
+gw.vgaming.win l2_socket_gateway_PROD_be
+guides2.vgaming.win l2_game_guides_PROD_be
+m2.vgaming.win l2_game_client_mobi_PROD_be
+result2.vgaming.win l2_game_round_result_PROD_be
+api2.vgaming.win l2_sg_api_PROD_be
+www2.vgaming.win l2_game_client_PROD_be
+gw2.vgaming.win l2_socket_gateway_PROD_be
+mini.vgaming.win l2_instant_game_client_PROD_be
+mini2.vgaming.win l2_instant_game_client_PROD_be
+keno.vgaming.win l2_game_client_mega_keno_mobi_PROD_be
+keno2.vgaming.win l2_game_client_mega_keno_mobi_PROD_be
