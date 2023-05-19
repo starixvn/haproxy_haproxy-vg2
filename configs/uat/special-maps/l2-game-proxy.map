@@ -1,3 +1,5 @@
+^/sit/game-client-199(/.*)?$ pentagon_l2_four_guardians_2_client_SIT_path_be
+^/uat/game-client-199(/.*)?$ pentagon_l2_four_guardians_2_client_UAT_path_be
 ^/sit/game-client-64(/.*)?$ pentagon_l2_magic_forest_client_SIT_path_be
 ^/uat/game-client-64(/.*)?$ pentagon_l2_magic_forest_client_UAT_path_be
 ^/sit/happyfish(/.*)?$ pentagon_l2_happy_fish_service_SIT_path_be
