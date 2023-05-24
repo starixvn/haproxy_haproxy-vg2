@@ -1,3 +1,4 @@
+^/fourguardians4(/.*)?$ pentagon_l2_four_guardians_4_service_LOCAL_path_be
 ^/fourguardians3(/.*)?$ pentagon_l2_four_guardians_3_service_LOCAL_path_be
 ^/game-client-199(/.*)?$ pentagon_l2_four_guardians_2_client_LOCAL_path_be
 ^/magicforest(/.*)?$ pentagon_l2_magic_forest_service_LOCAL_path_be
