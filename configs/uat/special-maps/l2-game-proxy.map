@@ -1,3 +1,5 @@
+^/sit/game-client-65(/.*)?$ pentagon_l2_dj_club_client_SIT_path_be
+^/uat/game-client-65(/.*)?$ pentagon_l2_dj_club_client_UAT_path_be
 ^/sit/djclub(/.*)?$ pentagon_l2_dj_club_service_SIT_path_be
 ^/uat/djclub(/.*)?$ pentagon_l2_dj_club_service_UAT_path_be
 ^/sit/magicforest(/.*)?$ pentagon_l2_magic_forest_service_SIT_path_be
