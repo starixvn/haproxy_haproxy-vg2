@@ -1,3 +1,4 @@
+^/sit/missionimpossible(/.*)?$ pentagon_l2_mission_impossible_service_SIT_path_be
 ^/uat/missionimpossible(/.*)?$ pentagon_l2_mission_impossible_service_UAT_path_be
 ^/sit/game-client-68(/.*)?$ pentagon_l2_mission_impossible_client_SIT_path_be
 ^/uat/game-client-68(/.*)?$ pentagon_l2_mission_impossible_client_UAT_path_be
