@@ -1,3 +1,4 @@
+^/missionimpossible(/.*)?$ pentagon_l2_mission_impossible_service_LOCAL_path_be
 ^/dragontigerfight(/.*)?$ pentagon_l2_dragon_tiger_fight_service_LOCAL_path_be
 ^/site-67(/.*)?$ pentagon_l2_dragon_tiger_fight_client_LOCAL_path_be
 ^/game-client-68(/.*)?$ pentagon_l2_mission_impossible_client_LOCAL_path_be
