@@ -58,3 +58,5 @@
 /magicforest/ l2_magic_forest_service_PROD_be
 /game-client-65/ l2_dj_club_client_PROD_be
 /djclub/ l2_dj_club_service_PROD_be
+/game-client-68/ l2_mission_impossible_client_PROD_be
+/missionimpossible/ l2_mission_impossible_service_PROD_be
