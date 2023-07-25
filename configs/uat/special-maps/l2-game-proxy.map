@@ -1,3 +1,5 @@
+^/sit/game-client-69(/.*)?$ pentagon_l2_blackpink_client_SIT_path_be
+^/uat/game-client-69(/.*)?$ pentagon_l2_blackpink_client_UAT_path_be
 ^/sit/blackpink(/.*)?$ pentagon_l2_blackpink_service_SIT_path_be
 ^/uat/blackpink(/.*)?$ pentagon_l2_blackpink_service_UAT_path_be
 ^/sit/missionimpossible(/.*)?$ pentagon_l2_mission_impossible_service_SIT_path_be
