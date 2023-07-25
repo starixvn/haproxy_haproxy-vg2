@@ -1,3 +1,5 @@
+^/blackpink(/.*)?$ pentagon_l2_blackpink_service_LOCAL_1_path_be
+^/blackpink(/.*)?$ pentagon_l2_blackpink_service_LOCAL_path_be
 ^/rtpchecker(/.*)?$ pentagon_l2_rtp_checker_service_LOCAL_path_be
 ^/missionimpossible(/.*)?$ pentagon_l2_mission_impossible_service_LOCAL_path_be
 ^/dragontigerfight(/.*)?$ pentagon_l2_dragon_tiger_fight_service_LOCAL_path_be
