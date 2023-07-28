@@ -1,3 +1,5 @@
+^/sit/candyland(/.*)?$ pentagon_l2_candy_land_service_SIT_path_be
+^/uat/candyland(/.*)?$ pentagon_l2_candy_land_service_UAT_path_be
 ^/sit/blackpink(/.*)?$ pentagon_l2_blackpink_service_SIT_path_be
 ^/uat/blackpink(/.*)?$ pentagon_l2_blackpink_service_UAT_path_be
 ^/sit/game-client-69(/.*)?$ pentagon_l2_blackpink_client_SIT_path_be

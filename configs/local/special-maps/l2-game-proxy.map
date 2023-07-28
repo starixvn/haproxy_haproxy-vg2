@@ -1,3 +1,4 @@
+^/candyland(/.*)?$ pentagon_l2_candy_land_service_LOCAL_path_be
 ^/game-client-69(/.*)?$ pentagon_l2_blackpink_client_LOCAL_path_be
 ^/blackpink(/.*)?$ pentagon_l2_blackpink_service_LOCAL_path_be
 ^/rtpchecker(/.*)?$ pentagon_l2_rtp_checker_service_LOCAL_path_be
