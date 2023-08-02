@@ -5,3 +5,6 @@ include:
   - project: "ci/common-ci"
     ref: master
     file: "haproxy-ci/haproxy.sglocal.gitlab-ci.yml"
+  - project: "ci/common-ci"
+    ref: master
+    file: "haproxy-ci/haproxy.awslocal.gitlab-ci.yml"
