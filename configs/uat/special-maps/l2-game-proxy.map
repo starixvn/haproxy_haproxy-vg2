@@ -1,7 +1,7 @@
 ^/sit/game-client-70(/.*)?$ pentagon_l2_transformers_client_SIT_path_be
 ^/uat/game-client-70(/.*)?$ pentagon_l2_transformers_client_UAT_path_be
-^/sit/transformers(/.*)?$ pentagon_l2_transformers__service_SIT_path_be
-^/uat/transformers(/.*)?$ pentagon_l2_transformers__service_UAT_path_be
+^/sit/transformers(/.*)?$ pentagon_l2_transformers_service_SIT_path_be
+^/uat/transformers(/.*)?$ pentagon_l2_transformers_service_UAT_path_be
 ^/sit/game-client-66(/.*)?$ pentagon_l2_candy_land_client_SIT_path_be
 ^/uat/game-client-66(/.*)?$ pentagon_l2_candy_land_client_UAT_path_be
 ^/sit/candyland(/.*)?$ pentagon_l2_candy_land_service_SIT_path_be
