@@ -1,3 +1,4 @@
+^/uat/game-client-65(/.*)?$ pentagon_l2_dj_club_client_AWSUAT_path_be
+^/sit/game-client-65(/.*)?$ pentagon_l2_dj_club_client_AWSSIT_path_be
 ^/uat/game-client-68(/.*)?$ pentagon_l2_mission_impossible_client_AWSUAT_path_be
 ^/sit/game-client-68(/.*)?$ pentagon_l2_mission_impossible_client_AWSSIT_path_be
-^/sit/game-client-65(/.*)?$ pentagon_l2_dj_club_client_AWSSIT_path_be
