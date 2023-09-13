@@ -1,3 +1,5 @@
+^/sit/game-client-63(/.*)?$ pentagon_l2_happy_fish_client_AWSSIT_path_be
+^/sit/game-client-63(/.*)?$ pentagon_l2_happy_fish_client_AWSUAT_path_be
 ^/sit/game-client-62(/.*)?$ pentagon_l2_fortune_cat_client_AWSSIT_path_be
 ^/uat/game-client-62(/.*)?$ pentagon_l2_fortune_cat_client_AWSUAT_path_be
 ^/sit/game-client-61(/.*)?$ pentagon_l2_win_three_cards_client_AWSSIT_path_be
