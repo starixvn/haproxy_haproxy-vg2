@@ -1,11 +1,11 @@
+^/sit/game-client-69(/.*)?$ pentagon_l2_blackpink_client_AWSSIT_path_be
+^/uat/game-client-69(/.*)?$ pentagon_l2_blackpink_client_AWSUAT_path_be
 ^/uat/game(/.*)?$ pentagon_l2_game_configuration_service_AWSUAT_path_be
 ^/sit/game(/.*)?$ pentagon_l2_game_configuration_service_AWSSIT_path_be
 ^/sit/game-client-47(/.*)?$ pentagon_l2_vg2_treasure_island_client_AWSSIT_path_be
 ^/uat/game-client-47(/.*)?$ pentagon_l2_vg2_treasure_island_client_AWSUAT_path_be
 ^/uat/game-client-48(/.*)?$ pentagon_l2_blockchain_baccarat_client_AWSUAT_path_be
 ^/sit/game-client-48(/.*)?$ pentagon_l2_blockchain_baccarat_client_AWSSIT_path_be
-^/uat/game-client-69(/.*)?$ pentagon_l2_blackpink_client_AWSUAT_path_be
-^/sit/game-client-69(/.*)?$ pentagon_l2_blackpink_client_AWSSIT_path_be
 ^/uat/game-client-65(/.*)?$ pentagon_l2_dj_club_client_AWSUAT_path_be
 ^/sit/game-client-65(/.*)?$ pentagon_l2_dj_club_client_AWSSIT_path_be
 ^/uat/game-client-68(/.*)?$ pentagon_l2_mission_impossible_client_AWSUAT_path_be
