@@ -2,8 +2,6 @@
 ^/sit/game-client-50(/.*)?$ pentagon_l2_unbalanced_bigsmall_client_AWSSIT_path_be
 ^/uat/game-client-9(/.*)?$ pentagon_l2_mini_sedie_client_AWSUAT_path_be
 ^/sit/game-client-9(/.*)?$ pentagon_l2_mini_sedie_client_AWSSIT_path_be
-^/uat/game(/.*)?$ pentagon_l2_game_configuration_service_AWSUAT_path_be
-^/sit/game(/.*)?$ pentagon_l2_game_configuration_service_AWSSIT_path_be
 ^/uat/game-client-52(/.*)?$ pentagon_l2_mega_keno_client_AWSUAT_path_be
 ^/sit/game-client-52(/.*)?$ pentagon_l2_mega_keno_client_AWSSIT_path_be
 ^/uat/game-client-59(/.*)?$ pentagon_l2_fruit_slot_client_AWSUAT_path_be
