@@ -1,3 +1,5 @@
+^/sit/game-client-68(/.*)?$ pentagon_l2_mission_impossible_client_SIT_path_be
+^/uat/game-client-68(/.*)?$ pentagon_l2_mission_impossible_client_UAT_path_be
 ^/sit/game-client-65(/.*)?$ pentagon_l2_dj_club_client_SIT_path_be
 ^/uat/game-client-65(/.*)?$ pentagon_l2_dj_club_client_UAT_path_be
 ^/sit/game-client-49(/.*)?$ pentagon_l2_way_to_goal_client_SIT_path_be
