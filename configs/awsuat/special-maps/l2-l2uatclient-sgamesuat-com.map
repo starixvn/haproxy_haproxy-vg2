@@ -1,3 +1,5 @@
+^/sit/game-client-47(/.*)?$ pentagon_l2_vg2_treasure_island_client_AWSSIT_path_be
+^/uat/game-client-47(/.*)?$ pentagon_l2_vg2_treasure_island_client_AWSUAT_path_be
 ^/uat/game-client-48(/.*)?$ pentagon_l2_blockchain_baccarat_client_AWSUAT_path_be
 ^/sit/game-client-48(/.*)?$ pentagon_l2_blockchain_baccarat_client_AWSSIT_path_be
 ^/uat/game-client-59(/.*)?$ pentagon_l2_fruit_slot_client_AWSUAT_path_be
