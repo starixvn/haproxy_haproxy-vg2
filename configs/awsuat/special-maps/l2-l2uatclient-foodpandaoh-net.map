@@ -1,3 +1,5 @@
+^/uat/game-client-48(/.*)?$ pentagon_l2_blockchain_baccarat_client_AWSUAT_path_be
+^/sit/game-client-48(/.*)?$ pentagon_l2_blockchain_baccarat_client_AWSSIT_path_be
 ^/uat/game-client-69(/.*)?$ pentagon_l2_blackpink_client_AWSUAT_path_be
 ^/sit/game-client-69(/.*)?$ pentagon_l2_blackpink_client_AWSSIT_path_be
 ^/uat/game-client-65(/.*)?$ pentagon_l2_dj_club_client_AWSUAT_path_be
