@@ -1,2 +1,4 @@
+^/sit/game-client-49(/.*)?$ pentagon_l2_way_to_goal_client_AWSSIT_path_be
+^/uat/game-client-49(/.*)?$ pentagon_l2_way_to_goal_client_AWSUAT_path_be
 ^/uat/game-client-60(/.*)?$ pentagon_l2_fantan_client_AWSUAT_path_be
 ^/sit/game-client-60(/.*)?$ pentagon_l2_fantan_client_AWSSIT_path_be
