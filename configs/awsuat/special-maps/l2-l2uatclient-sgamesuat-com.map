@@ -6,7 +6,5 @@
 ^/sit/game-client-52(/.*)?$ pentagon_l2_mega_keno_client_AWSSIT_path_be
 ^/uat/game-client-59(/.*)?$ pentagon_l2_fruit_slot_client_AWSUAT_path_be
 ^/sit/game-client-59(/.*)?$ pentagon_l2_fruit_slot_client_AWSSIT_path_be
-^/sit/game-client-49(/.*)?$ pentagon_l2_way_to_goal_client_AWSSIT_path_be
-^/uat/game-client-49(/.*)?$ pentagon_l2_way_to_goal_client_AWSUAT_path_be
 ^/uat/game-client-60(/.*)?$ pentagon_l2_fantan_client_AWSUAT_path_be
 ^/sit/game-client-60(/.*)?$ pentagon_l2_fantan_client_AWSSIT_path_be
