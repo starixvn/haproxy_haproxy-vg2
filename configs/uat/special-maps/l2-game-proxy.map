@@ -83,7 +83,6 @@
 ^/uat/fruitslot/ l2_fruit_slot_service_UAT_be
 ^/uat/game-client-59/ l2_fruit_slot_client_UAT_be
 ^/uat/game-client-60/ l2_fantan_client_UAT_be
-^/uat/game-client-62/ l2_fortune_cat_client_UAT_be
 
 ##SIT
 ^/sit/main/ l2_game_server_SIT_be
@@ -134,4 +133,3 @@
 ^/sit/fruitslot/ l2_fruit_slot_service_SIT_be
 ^/sit/game-client-59/ l2_fruit_slot_client_SIT_be
 ^/sit/game-client-60/ l2_fantan_client_SIT_be
-^/sit/game-client-62/ l2_fortune_cat_client_SIT_be
