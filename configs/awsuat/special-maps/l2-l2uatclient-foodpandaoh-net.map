@@ -1,3 +1,4 @@
+^/sit/game-client-69(/.*)?$ pentagon_l2_blackpink_client_AWSSIT_path_be
 ^/uat/game-client-50(/.*)?$ pentagon_l2_unbalanced_bigsmall_client_AWSUAT_path_be
 ^/sit/game-client-50(/.*)?$ pentagon_l2_unbalanced_bigsmall_client_AWSSIT_path_be
 ^/uat/game-client-9(/.*)?$ pentagon_l2_mini_sedie_client_AWSUAT_path_be
@@ -18,7 +19,6 @@
 ^/uat/game-client-62(/.*)?$ pentagon_l2_fortune_cat_client_AWSUAT_path_be
 ^/sit/game-client-61(/.*)?$ pentagon_l2_win_three_cards_client_AWSSIT_path_be
 ^/uat/game-client-61(/.*)?$ pentagon_l2_win_three_cards_client_AWSUAT_path_be
-^/sit/game-client-69(/.*)?$ pentagon_l2_blackpink_client_AWSSIT_path_be
 ^/uat/game-client-69(/.*)?$ pentagon_l2_blackpink_client_AWSUAT_path_be
 ^/uat/game(/.*)?$ pentagon_l2_game_configuration_service_AWSUAT_path_be
 ^/sit/game(/.*)?$ pentagon_l2_game_configuration_service_AWSSIT_path_be
