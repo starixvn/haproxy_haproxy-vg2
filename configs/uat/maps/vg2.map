@@ -1,4 +1,3 @@
-l2miniuat.sgamesuat.com pentagon_l2_instant_game_client_UAT_be
 l2sitows.sgamesuat.com pentagon_l2_ow_api_simulator_SIT_be
 l2sitglbs.sgamesuat.com pentagon_l2_game_lobby_simulator_SIT_be
 #SIT - L2
@@ -16,18 +15,22 @@ intl2sitresult.sgamesuat.com l2_game_result_SIT_be
 l2sitkeno.sgamesuat.com l2_game_client_mega_keno_mobi_SIT_be
 
 #UAT - L2
-l2uat.sgamesuat.com l2_game_client_UAT_be
 l2uatapi.sgamesuat.com l2_sg_api_UAT_be
 l2uatadm.sgamesuat.com l2_admin_site_UAT_be
 l2uatresult.sgamesuat.com l2_game_result_UAT_be
-l2uatm.sgamesuat.com l2_game_client_mobi_UAT_be
+
 l2guidesuat.sgamesuat.com l2_game_guides_UAT_be
 l2socceruat.sgamesuat.com default_backend_nodes
 l2gwuat.sgamesuat.com l2_socket_gateway_UAT_be
 l2newsuat.sgamesuat.com default_backend_nodes
 intl2uatapi.sgamesuat.com l2_sg_api_UAT_be
 intl2uatresult.sgamesuat.com l2_game_result_UAT_be
-l2uatkeno.sgamesuat.com l2_game_client_mega_keno_mobi_UAT_be
+
+#UAT L2 - KBT Cluster
+l2uat.foodpandaoh.net l2_game_client_UAT_be
+l2uatm.foodpandaoh.net l2_game_client_mobi_UAT_be
+l2uatkeno.foodpandaoh.net l2_game_client_mega_keno_mobi_UAT_be
+l2miniuat.foodpandaoh.net pentagon_l2_instant_game_client_UAT_be
 
 #PFF
 demo.vgaming.io l2_game_client_SIT_be
