@@ -1,3 +1,4 @@
+^/uat/game-client-63(/.*)?$ pentagon_l2_happy_fish_client_UAT_path_be
 ^/uat/site-67(/.*)?$ pentagon_l2_dragon_tiger_fight_client_UAT_path_be
 ^/uat/game-client-59/ l2_fruit_slot_client_UAT_be
 ^/uat/game-client-60/ l2_fantan_client_UAT_be
@@ -11,7 +12,6 @@
 ^/uat/game-client-70(/.*)?$ pentagon_l2_transformers_client_UAT_path_be
 ^/uat/game-client-61(/.*)?$ pentagon_l2_win_three_cards_client_UAT_path_be
 ^/uat/game-client-62(/.*)?$ pentagon_l2_fortune_cat_client_UAT_path_be
-^/uat/game-client-63(/.*)?$ pentagon_l2_happy_fish_client_UAT_path_be
 ^/uat/game-client-64(/.*)?$ pentagon_l2_magic_forest_client_UAT_path_be
 ^/uat/game-client-49(/.*)?$ pentagon_l2_way_to_goal_client_UAT_path_be
 ^/uat/game-client-65(/.*)?$ pentagon_l2_dj_club_client_UAT_path_be
