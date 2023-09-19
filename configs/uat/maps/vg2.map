@@ -14,6 +14,12 @@ intl2sitapi.sgamesuat.com l2_sg_api_SIT_be
 intl2sitresult.sgamesuat.com l2_game_result_SIT_be
 l2sitkeno.sgamesuat.com l2_game_client_mega_keno_mobi_SIT_be
 
+#SIT L2 - KBT Cluster
+l2sit.foodpandaoh.net l2_game_client_SIT_be
+l2sitm.foodpandaoh.net l2_game_client_mobi_SIT_be
+l2sitkeno.foodpandaoh.net l2_game_client_mega_keno_mobi_SIT_be
+l2minisit.foodpandaoh.net l2_instant_game_client_SIT_be
+
 #UAT - L2
 l2uatapi.sgamesuat.com l2_sg_api_UAT_be
 l2uatadm.sgamesuat.com l2_admin_site_UAT_be
