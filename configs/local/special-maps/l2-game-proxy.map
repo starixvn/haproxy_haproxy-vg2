@@ -1,3 +1,4 @@
+^/game-client-49(/.*)?$ pentagon_l2_way_to_goal_client_LOCAL_path_be
 ^/site-instant-71(/.*)?$ pentagon_l2_instant_color_game_client_LOCAL_path_be
 ^/site-71(/.*)?$ pentagon_l2_color_game_client_LOCAL_path_be
 ^/colorgame(/.*)?$ pentagon_l2_color_game_service_LOCAL_path_be
