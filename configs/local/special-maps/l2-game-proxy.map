@@ -1,3 +1,4 @@
+^/game-client-49(/.*)?$ pentagon_l2_way_to_goal_client_LOCAL_path_be
 ^/site-instant-71(/.*)?$ pentagon_l2_instant_color_game_client_LOCAL_path_be
 ^/site-71(/.*)?$ pentagon_l2_color_game_client_LOCAL_path_be
 ^/colorgame(/.*)?$ pentagon_l2_color_game_service_LOCAL_path_be
@@ -74,7 +75,6 @@
 ^/game-client-50/ l2_unbalanced_bigsmall_client_LOCAL_be
 ^/game/ l2_game_configuration_service_LOCAL_be
 ^/waytogoal/ l2_way_to_goal_service_LOCAL_be
-^/game-client-49/ l2_way_to_goal_client_LOCAL_be
 ^/game-client-9/ l2_mini_sedie_client_LOCAL_be
 ^/game-client-52/ l2_mega_keno_client_LOCAL_be
 ^/game-client-59/ l2_fruit_slot_client_LOCAL_be
