@@ -1,3 +1,5 @@
+^/sit/game-client-63(/.*)?$ pentagon_l2_happy_fish_client_SIT_path_be
+^/uat/game-client-63(/.*)?$ pentagon_l2_happy_fish_client_UAT_path_be
 ^/sit/game-client-72(/.*)?$ pentagon_l2_pontoon_client_SIT_path_be
 ^/uat/pontoon(/.*)?$ pentagon_l2_pontoon_service_UAT_path_be
 ^/sit/pontoon(/.*)?$ pentagon_l2_pontoon_service_SIT_path_be
@@ -11,7 +13,6 @@
 ^/uat/game-client-49(/.*)?$ pentagon_l2_way_to_goal_client_UAT_path_be
 ^/sit/game-client-64(/.*)?$ pentagon_l2_magic_forest_client_SIT_path_be
 ^/uat/game-client-64(/.*)?$ pentagon_l2_magic_forest_client_UAT_path_be
-^/sit/game-client-63(/.*)?$ pentagon_l2_happy_fish_client_SIT_path_be
 ^/sit/game-client-62(/.*)?$ pentagon_l2_fortune_cat_client_SIT_path_be
 ^/uat/game-client-62(/.*)?$ pentagon_l2_fortune_cat_client_UAT_path_be
 ^/sit/game-client-61(/.*)?$ pentagon_l2_win_three_cards_client_SIT_path_be
