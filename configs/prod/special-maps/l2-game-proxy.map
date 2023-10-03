@@ -1,3 +1,4 @@
+^/game-client-70(/.*)?$ pentagon_l2_transformers_client_PROD_path_be
 ^/transformers(/.*)?$ pentagon_l2_transformers_service_PROD_path_be
 ^/main/ l2_game_server_PROD_be
 ^/sedie/ l2_sedie_service_PROD_be
