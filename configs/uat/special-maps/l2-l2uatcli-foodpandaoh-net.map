@@ -1,9 +1,10 @@
+^/sit/game-client-70(/.*)?$ pentagon_l2_transformers_client_SIT_path_be
+^/uat/game-client-70(/.*)?$ pentagon_l2_transformers_client_UAT_path_be
 ^/sit/game-client-63(/.*)?$ pentagon_l2_happy_fish_client_SIT_path_be
 ^/uat/game-client-63(/.*)?$ pentagon_l2_happy_fish_client_UAT_path_be
 ^/uat/game-client-72(/.*)?$ pentagon_l2_pontoon_client_UAT_path_be
 ^/sit/site-67(/.*)?$ pentagon_l2_dragon_tiger_fight_client_SIT_path_be
 ^/sit/game-client-66(/.*)?$ pentagon_l2_candy_land_client_SIT_path_be
-^/uat/game-client-70(/.*)?$ pentagon_l2_transformers_client_UAT_path_be
 ^/uat/game-client-66(/.*)?$ pentagon_l2_candy_land_client_UAT_path_be
 ^/uat/site-67(/.*)?$ pentagon_l2_dragon_tiger_fight_client_UAT_path_be
 ^/uat/game-client-59/ l2_fruit_slot_client_UAT_be
@@ -28,7 +29,6 @@
 ^/sit/game-client-64(/.*)?$ pentagon_l2_magic_forest_client_SIT_path_be
 ^/sit/game-client-62(/.*)?$ pentagon_l2_fortune_cat_client_SIT_path_be
 ^/sit/game-client-61(/.*)?$ pentagon_l2_win_three_cards_client_SIT_path_be
-^/sit/game-client-70(/.*)?$ pentagon_l2_transformers_client_SIT_path_be
 ^/sit/game-client-59/ l2_fruit_slot_client_SIT_be
 ^/sit/game-client-60/ l2_fantan_client_SIT_be
 ^/sit/game-client-9/ l2_mini_sedie_client_SIT_be
