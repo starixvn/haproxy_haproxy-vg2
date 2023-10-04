@@ -1,3 +1,4 @@
+^/notification(/.*)?$ pentagon_l2_notification_service_LOCAL_path_be
 ^/game-client-72(/.*)?$ pentagon_l2_pontoon_client_LOCAL_path_be
 ^/pontoon(/.*)?$ pentagon_l2_pontoon_service_LOCAL_path_be
 ^/game-client-64(/.*)?$ pentagon_l2_magic_forest_client_LOCAL_path_be
@@ -64,7 +65,6 @@
 ^/kenomatch/ l2_keno_match_service_LOCAL_be
 ^/casinoholdempoker/ l2_casino_holdem_poker_service_LOCAL_be
 ^/bitcoinmaster/ l2_bitcoin_master_service_LOCAL_be
-^/notification/ l2_notification_service_LOCAL_be
 ^/hilo/ l2_hilo_service_LOCAL_be
 ^/texasholdempoker/ l2_texas_holdem_poker_service_LOCAL_be
 ^/monitoring/ l2_admin_monitoring_site_LOCAL_be
