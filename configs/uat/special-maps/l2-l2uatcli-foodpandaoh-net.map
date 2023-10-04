@@ -1,8 +1,9 @@
+^/sit/game-client-72(/.*)?$ pentagon_l2_pontoon_client_SIT_path_be
+^/uat/game-client-72(/.*)?$ pentagon_l2_pontoon_client_UAT_path_be
 ^/sit/game-client-70(/.*)?$ pentagon_l2_transformers_client_SIT_path_be
 ^/uat/game-client-70(/.*)?$ pentagon_l2_transformers_client_UAT_path_be
 ^/sit/game-client-63(/.*)?$ pentagon_l2_happy_fish_client_SIT_path_be
 ^/uat/game-client-63(/.*)?$ pentagon_l2_happy_fish_client_UAT_path_be
-^/uat/game-client-72(/.*)?$ pentagon_l2_pontoon_client_UAT_path_be
 ^/sit/site-67(/.*)?$ pentagon_l2_dragon_tiger_fight_client_SIT_path_be
 ^/sit/game-client-66(/.*)?$ pentagon_l2_candy_land_client_SIT_path_be
 ^/uat/game-client-66(/.*)?$ pentagon_l2_candy_land_client_UAT_path_be
