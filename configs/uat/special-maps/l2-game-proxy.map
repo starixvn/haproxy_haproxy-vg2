@@ -1,3 +1,5 @@
+^/sit/monitoring(/.*)?$ pentagon_l2_admin_monitoring_site_SIT_path_be
+^/uat/monitoring(/.*)?$ pentagon_l2_admin_monitoring_site_UAT_path_be
 ^/uat/pontoon(/.*)?$ pentagon_l2_pontoon_service_UAT_path_be
 ^/sit/pontoon(/.*)?$ pentagon_l2_pontoon_service_SIT_path_be
 ^/sit/game-client-69(/.*)?$ pentagon_l2_blackpink_client_SIT_path_be
@@ -72,7 +74,6 @@
 ^/uat/notification/ l2_notification_service_UAT_be
 ^/uat/texasholdempoker/ l2_texas_holdem_poker_service_UAT_be
 ^/uat/hilo/ l2_hilo_service_UAT_be
-^/uat/monitoring/ l2_admin_monitoring_site_UAT_be
 ^/uat/nightclub/ l2_night_club_service_UAT_be
 ^/uat/game-client-47/ l2_treasure_island_client_UAT_be
 ^/uat/treasureisland/ l2_treasure_island_service_UAT_be
@@ -122,7 +123,6 @@
 ^/sit/notification/ l2_notification_service_SIT_be
 ^/sit/texasholdempoker/ l2_texas_holdem_poker_service_SIT_be
 ^/sit/hilo/ l2_hilo_service_SIT_be
-^/sit/monitoring/ l2_admin_monitoring_site_SIT_be
 ^/sit/nightclub/ l2_night_club_service_SIT_be
 ^/sit/game-client-47/ l2_treasure_island_client_SIT_be
 ^/sit/treasureisland/ l2_treasure_island_service_SIT_be
