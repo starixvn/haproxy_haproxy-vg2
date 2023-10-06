@@ -1,3 +1,4 @@
+^/sit/notification(/.*)?$ pentagon_l2_notification_service_SIT_path_be
 ^/sit/monitoring(/.*)?$ pentagon_l2_admin_monitoring_site_SIT_path_be
 ^/uat/monitoring(/.*)?$ pentagon_l2_admin_monitoring_site_UAT_path_be
 ^/uat/pontoon(/.*)?$ pentagon_l2_pontoon_service_UAT_path_be
@@ -120,7 +121,6 @@
 ^/sit/casinoholdempoker/ l2_casino_holdem_poker_service_SIT_be
 ^/sit/bitcoinmaster/ l2_bitcoin_master_service_SIT_be
 ^/sit/luckywheel/ l2_lucky_wheel_service_SIT_be
-^/sit/notification/ l2_notification_service_SIT_be
 ^/sit/texasholdempoker/ l2_texas_holdem_poker_service_SIT_be
 ^/sit/hilo/ l2_hilo_service_SIT_be
 ^/sit/nightclub/ l2_night_club_service_SIT_be
