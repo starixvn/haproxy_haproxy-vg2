@@ -1,3 +1,4 @@
+^/uat/colorgame(/.*)?$ pentagon_l2_color_game_service_UAT_path_be
 ^/sit/notification(/.*)?$ pentagon_l2_notification_service_SIT_path_be
 ^/sit/monitoring(/.*)?$ pentagon_l2_admin_monitoring_site_SIT_path_be
 ^/uat/monitoring(/.*)?$ pentagon_l2_admin_monitoring_site_UAT_path_be
