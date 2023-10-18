@@ -68,3 +68,5 @@
 ^/dragontigerfight/ l2_dragon_tiger_fight_service_PROD_be
 ^/site-67/ l2_dragon_tiger_fight_client_PROD_be
 ^/ l2_notification_service_PROD_be
+^/game-client-72(/.*)?$ l2_pontoon_client_PROD_be
+^/pontoon(/.*)?$ l2_pontoon_service_PROD_be
