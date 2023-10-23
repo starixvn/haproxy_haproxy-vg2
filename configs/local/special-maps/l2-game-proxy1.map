@@ -1,3 +1,4 @@
+^/bandarqiuqiu(/.*)?$ pentagon_l2_bandar_qiu_qiu_service_LOCAL_1_path_be
 ^/monitoring(/.*)?$ pentagon_l2_admin_monitoring_site_LOCAL_1_path_be
 ^/game-client-72(/.*)?$ pentagon_l2_pontoon_client_LOCAL_1_path_be
 ^/pontoon(/.*)?$ pentagon_l2_pontoon_service_LOCAL_1_path_be
