@@ -72,3 +72,4 @@
 ^/dragontigerfight/ l2_dragon_tiger_fight_service_PROD_be
 ^/site-67/ l2_dragon_tiger_fight_client_PROD_be
 ^/ pentagon_l2_notification_service_PROD_path_be
+^/colorgame/ l2_color_game_service_PROD_be
