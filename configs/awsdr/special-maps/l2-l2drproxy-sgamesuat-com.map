@@ -1,2 +1,3 @@
+^/notification(/.*)?$ pentagon_l2_notification_service_AWSDR_path_be
 ^/game-client-9(/.*)?$ pentagon_l2_mini_sedie_client_AWSDR_path_be
 ^/game(/.*)?$ pentagon_l2_game_configuration_service_AWSDR_path_be
