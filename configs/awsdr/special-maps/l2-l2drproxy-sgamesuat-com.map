@@ -1,3 +1,4 @@
+^/sicbo(/.*)?$ pentagon_l2_sicbo_service_AWSDR_path_be
 ^/fishprawncrab(/.*)?$ pentagon_l2_fish_prawn_crab_service_AWSDR_path_be
 ^/dragontiger(/.*)?$ pentagon_l2_dragon_tiger_service_AWSDR_path_be
 ^/baccarat(/.*)?$ pentagon_l2_baccarat_service_AWSDR_path_be
