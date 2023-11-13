@@ -1,3 +1,4 @@
+^/minisedie(/.*)?$ pentagon_l2_sedie_multiplay_service_AWSDR_path_be
 ^/vsedie(/.*)?$ pentagon_l2_vip_sedie_service_AWSDR_path_be
 ^/sedie(/.*)?$ pentagon_l2_sedie_service_AWSDR_path_be
 ^/bigsmall(/.*)?$ pentagon_l2_big_small_service_AWSDR_path_be
