@@ -1,3 +1,5 @@
+^/sit/site-75(/.*)?$ pentagon_l2_bandar_qiu_qiu_client_SIT_path_be
+^/uat/site-75(/.*)?$ pentagon_l2_bandar_qiu_qiu_client_UAT_path_be
 ^/sit/site-71(/.*)?$ pentagon_l2_color_game_client_SIT_path_be
 ^/sit/site-instant-71(/.*)?$ pentagon_l2_instant_color_game_client_SIT_path_be
 ^/uat/site-instant-71(/.*)?$ pentagon_l2_instant_color_game_client_UAT_path_be
