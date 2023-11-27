@@ -1,3 +1,4 @@
+^/sit/bandarqiuqiu(/.*)?$ pentagon_l2_bandar_qiu_qiu_service_SIT_path_be
 ^/sit/colorgame(/.*)?$ pentagon_l2_color_game_service_SIT_path_be
 ^/uat/colorgame(/.*)?$ pentagon_l2_color_game_service_UAT_path_be
 ^/sit/notification(/.*)?$ pentagon_l2_notification_service_SIT_path_be
