@@ -1,3 +1,4 @@
+l2-admin2.lumigame.com pentagon_l2_admin_site_LOCAL_2_be
 l2-api2.lumigame.com pentagon_l2_sg_api_LOCAL_2_be
 l2-auth2.lumigame.com pentagon_l2_auth_api_LOCAL_2_be
 l2-history1.lumigame.com pentagon_l2_game_history_service_LOCAL_1_be
@@ -11,7 +12,7 @@ l2-m.luminetsoft.com l2_game_client_mobi_LOCAL_be
 l2-games.luminetsoft.com l2_game_client_LOCAL_be
 l2-api.luminetsoft.com l2_sg_api_LOCAL_be
 l2-auth.luminetsoft.com l2_auth_api_LOCAL_be
-l2-admin.luminetsoft.com l2_admin_site_LOCAL_be
+l2-admin.lumigame.com l2_admin_site_LOCAL_be
 l2-admin-api.luminetsoft.com l2_admin_api_LOCAL_be
 l2-glbs.luminetsoft.com l2_game_lobby_simulator_LOCAL_be
 l2-ows.luminetsoft.com l2_ow_api_simulator_LOCAL_be
@@ -26,7 +27,7 @@ l2-m1.luminetsoft.com l2_game_client_mobi_LOCAL_1_be
 l2-games1.luminetsoft.com l2_game_client_LOCAL_1_be
 l2-api1.luminetsoft.com l2_sg_api_LOCAL_1_be
 l2-auth1.luminetsoft.com l2_auth_api_LOCAL_1_be
-l2-admin1.luminetsoft.com l2_admin_site_LOCAL_1_be
+l2-admin1.lumigame.com l2_admin_site_LOCAL_1_be
 l2-admin-api1.luminetsoft.com l2_admin_api_LOCAL_1_be
 l2-glbs1.luminetsoft.com l2_game_lobby_simulator_LOCAL_1_be
 l2-ows1.luminetsoft.com l2_ow_api_simulator_LOCAL_1_be
