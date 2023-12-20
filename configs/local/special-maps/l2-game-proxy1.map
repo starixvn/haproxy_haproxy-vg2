@@ -1,5 +1,5 @@
-^/kenopower(/.*)?$ pentagon_l2_keno_power_service_LOCAL_1_path_be
 ^/kenomatch(/.*)?$ pentagon_l2_keno_match_service_LOCAL_1_path_be
+^/kenopower(/.*)?$ pentagon_l2_keno_power_service_LOCAL_1_path_be
 ^/game-client-61(/.*)?$ pentagon_l2_win_three_cards_client_LOCAL_1_path_be
 ^/site-73(/.*)?$ pentagon_l2_spaceflight_client_LOCAL_1_path_be
 ^/game(/.*)?$ pentagon_l2_game_configuration_service_LOCAL_1_path_be
