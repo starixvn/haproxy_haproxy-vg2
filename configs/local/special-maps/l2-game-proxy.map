@@ -1,3 +1,4 @@
+^/onepiece(/.*)?$ pentagon_l2_one_piece_service_LOCAL_path_be
 ^/site-75(/.*)?$ pentagon_l2_bandar_qiu_qiu_client_LOCAL_path_be
 ^/game-client-70(/.*)?$ pentagon_l2_transformers_client_LOCAL_path_be
 ^/bandarqiuqiu(/.*)?$ pentagon_l2_bandar_qiu_qiu_service_LOCAL_path_be
