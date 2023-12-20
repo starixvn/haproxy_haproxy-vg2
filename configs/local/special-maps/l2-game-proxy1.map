@@ -1,3 +1,8 @@
+^/spaceflight(/.*)?$ pentagon_l2_spaceflight_service_LOCAL_1_path_be
+^/game(/.*)?$ pentagon_l2_game_configuration_service_LOCAL_1_path_be
+^/site-73(/.*)?$ pentagon_l2_spaceflight_client_LOCAL_1_path_be
+^/game-client-74(/.*)?$ pentagon_l2_one_piece_client_LOCAL_1_path_be
+^/onepiece(/.*)?$ pentagon_l2_one_piece_service_LOCAL_1_path_be
 ^/site-75(/.*)?$ pentagon_l2_bandar_qiu_qiu_client_LOCAL_1_path_be
 ^/game-client-70(/.*)?$ pentagon_l2_transformers_client_LOCAL_1_path_be
 ^/bandarqiuqiu(/.*)?$ pentagon_l2_bandar_qiu_qiu_service_LOCAL_1_path_be
@@ -70,7 +75,6 @@
 ^/game-client-48/ l2_blockchain_baccarat_client_LOCAL_1_be
 ^/unbalancedbigsmall/ l2_unbalanced_bigsmall_service_LOCAL_1_be
 ^/game-client-50/ l2_unbalanced_bigsmall_client_LOCAL_1_be
-^/game/ l2_game_configuration_service_LOCAL_1_be
 ^/waytogoal/ l2_way_to_goal_service_LOCAL_1_be
 ^/game-client-49/ l2_way_to_goal_client_LOCAL_1_be
 ^/game-client-9/ l2_mini_sedie_client_LOCAL_1_be
