@@ -1,3 +1,4 @@
+^/game(/.*)?$ pentagon_l2_game_configuration_service_AWSDR_path_be
 ^/sicbo(/.*)?$ pentagon_l2_sicbo_service_AWSDR_path_be
 ^/fishprawncrab(/.*)?$ pentagon_l2_fish_prawn_crab_service_AWSDR_path_be
 ^/dragontiger(/.*)?$ pentagon_l2_dragon_tiger_service_AWSDR_path_be
@@ -10,4 +11,3 @@
 ^/user(/.*)?$ pentagon_l2_user_service_AWSDR_path_be
 ^/notification(/.*)?$ pentagon_l2_notification_service_AWSDR_path_be
 ^/game-client-9(/.*)?$ pentagon_l2_mini_sedie_client_AWSDR_path_be
-^/game(/.*)?$ pentagon_l2_game_configuration_service_AWSDR_path_be
