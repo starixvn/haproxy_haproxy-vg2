@@ -1,3 +1,4 @@
+^/kenopower(/.*)?$ pentagon_l2_keno_power_service_LOCAL_path_be
 ^/kenomatch(/.*)?$ pentagon_l2_keno_match_service_LOCAL_path_be
 ^/game-client-61(/.*)?$ pentagon_l2_win_three_cards_client_LOCAL_path_be
 ^/site-73(/.*)?$ pentagon_l2_spaceflight_client_LOCAL_path_be
@@ -70,7 +71,6 @@
 ^/minikeno/	l2_mini_keno_service_LOCAL_be
 ^/heroesslot/ l2_heroes_slot_service_LOCAL_be
 ^/luckywheel/ l2_lucky_wheel_service_LOCAL_be
-^/kenopower/ l2_keno_power_service_LOCAL_be
 ^/casinoholdempoker/ l2_casino_holdem_poker_service_LOCAL_be
 ^/bitcoinmaster/ l2_bitcoin_master_service_LOCAL_be
 ^/hilo/ l2_hilo_service_LOCAL_be
