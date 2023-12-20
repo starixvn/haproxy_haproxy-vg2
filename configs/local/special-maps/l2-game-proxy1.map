@@ -1,3 +1,4 @@
+^/game-client-61/versions.json(/.*)?$ pentagon_l2_win_three_cards_client_LOCAL_1_path_be
 ^/site-73(/.*)?$ pentagon_l2_spaceflight_client_LOCAL_1_path_be
 ^/game(/.*)?$ pentagon_l2_game_configuration_service_LOCAL_1_path_be
 ^/spaceflight(/.*)?$ pentagon_l2_spaceflight_service_LOCAL_1_path_be
@@ -32,7 +33,6 @@
 ^/game-client-64(/.*)?$ pentagon_l2_magic_forest_client_LOCAL_1_path_be
 ^/game-client-63(/.*)?$ pentagon_l2_happy_fish_client_LOCAL_1_path_be
 ^/game-client-62(/.*)?$ pentagon_l2_fortune_cat_client_LOCAL_1_path_be
-^/game-client-61(/.*)?$ pentagon_l2_win_three_cards_client_LOCAL_1_path_be
 ^/winthreecards(/.*)?$ pentagon_l2_win_three_cards_service_LOCAL_1_path_be
 ^/fortunecat(/.*)?$ pentagon_l2_fortune_cat_service_LOCAL_1_path_be
 ^/fantan(/.*)?$ pentagon_l2_fantan_service_LOCAL_1_path_be
