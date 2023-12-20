@@ -1,6 +1,6 @@
+^/site-73(/.*)?$ pentagon_l2_spaceflight_client_LOCAL_path_be
 ^/game(/.*)?$ pentagon_l2_game_configuration_service_LOCAL_path_be
 ^/spaceflight(/.*)?$ pentagon_l2_spaceflight_service_LOCAL_path_be
-^/site-73(/.*)?$ pentagon_l2_spaceflight_client_LOCAL_path_be
 ^/game-client-74(/.*)?$ pentagon_l2_one_piece_client_LOCAL_path_be
 ^/onepiece(/.*)?$ pentagon_l2_one_piece_service_LOCAL_path_be
 ^/site-75(/.*)?$ pentagon_l2_bandar_qiu_qiu_client_LOCAL_path_be
