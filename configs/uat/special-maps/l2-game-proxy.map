@@ -1,7 +1,7 @@
-^/sit/vipbaccarat(/.*)?$ pentagon_l2_vip_baccarat_service_SIT_path_be
-^/uat/vipbaccarat(/.*)?$ pentagon_l2_vip_baccarat_service_UAT_path_be
 ^/sit/vipfishprawncrab(/.*)?$ pentagon_l2_vip_fish_prawn_crab_service_SIT_path_be
 ^/uat/vipfishprawncrab(/.*)?$ pentagon_l2_vip_fish_prawn_crab_service_UAT_path_be
+^/sit/vipbaccarat(/.*)?$ pentagon_l2_vip_baccarat_service_SIT_path_be
+^/uat/vipbaccarat(/.*)?$ pentagon_l2_vip_baccarat_service_UAT_path_be
 ^/sit/kenomatch(/.*)?$ pentagon_l2_keno_match_service_SIT_path_be
 ^/uat/kenomatch(/.*)?$ pentagon_l2_keno_match_service_UAT_path_be
 ^/sit/kenopower(/.*)?$ pentagon_l2_keno_power_service_SIT_path_be
