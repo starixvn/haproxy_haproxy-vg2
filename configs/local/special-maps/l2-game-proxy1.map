@@ -1,3 +1,4 @@
+^/vipfishprawncrab(/.*)?$ pentagon_l2_vip_fish_prawn_crab_service_LOCAL_1_path_be
 ^/kenomatch(/.*)?$ pentagon_l2_keno_match_service_LOCAL_1_path_be
 ^/kenopower(/.*)?$ pentagon_l2_keno_power_service_LOCAL_1_path_be
 ^/game-client-61(/.*)?$ pentagon_l2_win_three_cards_client_LOCAL_1_path_be
@@ -43,7 +44,6 @@
 ^/vsedie/ l2_vip_sedie_service_LOCAL_1_be
 ^/specialsedie/ l2_special_sedie_service_LOCAL_1_be
 ^/blackjack/ l2_blackjack_service_LOCAL_1_be
-^/vipfishprawncrab/ l2_vip_fish_prawn_crab_service_LOCAL_1_be
 ^/sicbo/ l2_sicbo_service_LOCAL_1_be
 ^/vipbaccarat/ l2_vip_baccarat_service_LOCAL_1_be
 ^/vipsediewar/ l2_vip_sedie_war_service_LOCAL_1_be
