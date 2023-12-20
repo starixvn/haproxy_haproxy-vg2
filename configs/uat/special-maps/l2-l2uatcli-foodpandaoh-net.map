@@ -1,3 +1,5 @@
+^/sit/game-client-61(/.*)?$ pentagon_l2_win_three_cards_client_SIT_path_be
+^/uat/game-client-61(/.*)?$ pentagon_l2_win_three_cards_client_UAT_path_be
 ^/sit/game(/.*)?$ pentagon_l2_game_configuration_service_SIT_path_be
 ^/uat/game(/.*)?$ pentagon_l2_game_configuration_service_UAT_path_be
 ^/sit/site-73(/.*)?$ pentagon_l2_spaceflight_client_SIT_path_be
@@ -28,7 +30,6 @@
 ^/uat/game-client-48/ l2_blockchain_baccarat_client_UAT_be
 ^/uat/game-client-47/ l2_treasure_island_client_UAT_be
 ^/uat/game-client-199(/.*)?$ pentagon_l2_four_guardians_2_client_UAT_path_be
-^/uat/game-client-61(/.*)?$ pentagon_l2_win_three_cards_client_UAT_path_be
 ^/uat/game-client-62(/.*)?$ pentagon_l2_fortune_cat_client_UAT_path_be
 ^/uat/game-client-64(/.*)?$ pentagon_l2_magic_forest_client_UAT_path_be
 ^/uat/game-client-49(/.*)?$ pentagon_l2_way_to_goal_client_UAT_path_be
@@ -41,7 +42,6 @@
 ^/sit/game-client-49(/.*)?$ pentagon_l2_way_to_goal_client_SIT_path_be
 ^/sit/game-client-64(/.*)?$ pentagon_l2_magic_forest_client_SIT_path_be
 ^/sit/game-client-62(/.*)?$ pentagon_l2_fortune_cat_client_SIT_path_be
-^/sit/game-client-61(/.*)?$ pentagon_l2_win_three_cards_client_SIT_path_be
 ^/sit/game-client-59/ l2_fruit_slot_client_SIT_be
 ^/sit/game-client-60/ l2_fantan_client_SIT_be
 ^/sit/game-client-9/ l2_mini_sedie_client_SIT_be

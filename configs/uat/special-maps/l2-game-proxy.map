@@ -19,8 +19,6 @@
 ^/uat/game-client-64(/.*)?$ pentagon_l2_magic_forest_client_UAT_path_be
 ^/sit/game-client-62(/.*)?$ pentagon_l2_fortune_cat_client_SIT_path_be
 ^/uat/game-client-62(/.*)?$ pentagon_l2_fortune_cat_client_UAT_path_be
-^/sit/game-client-61(/.*)?$ pentagon_l2_win_three_cards_client_SIT_path_be
-^/uat/game-client-61(/.*)?$ pentagon_l2_win_three_cards_client_UAT_path_be
 ^/uat/dragontigerfight(/.*)?$ pentagon_l2_dragon_tiger_fight_service_UAT_path_be
 ^/sit/dragontigerfight(/.*)?$ pentagon_l2_dragon_tiger_fight_service_SIT_path_be
 ^/sit/transformers(/.*)?$ pentagon_l2_transformers_service_SIT_path_be
