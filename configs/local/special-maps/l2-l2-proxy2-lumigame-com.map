@@ -1,3 +1,4 @@
+^/bigsmall(/.*)?$ pentagon_l2_big_small_service_LOCAL_2_path_be
 ^/game(/.*)?$ pentagon_l2_game_configuration_service_LOCAL_2_path_be
 ^/user(/.*)?$ pentagon_l2_user_service_LOCAL_2_path_be
 ^/onepiece(/.*)?$ pentagon_l2_one_piece_service_LOCAL_2_path_be
