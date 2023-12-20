@@ -1,3 +1,5 @@
+^/sit/kenomatch(/.*)?$ pentagon_l2_keno_match_service_SIT_path_be
+^/uat/kenomatch(/.*)?$ pentagon_l2_keno_match_service_UAT_path_be
 ^/uat/bandarqiuqiu(/.*)?$ pentagon_l2_bandar_qiu_qiu_service_UAT_path_be
 ^/sit/bandarqiuqiu(/.*)?$ pentagon_l2_bandar_qiu_qiu_service_SIT_path_be
 ^/sit/colorgame(/.*)?$ pentagon_l2_color_game_service_SIT_path_be
@@ -68,7 +70,6 @@
 ^/uat/threecards/ l2_three_cards_service_UAT_be
 ^/uat/kenosoccer/ default_backend_nodes
 ^/uat/heroesslot/ l2_heroes_slot_service_UAT_be
-^/uat/kenomatch/ l2_keno_match_service_UAT_be
 ^/uat/minikeno/ l2_mini_keno_service_UAT_be
 ^/uat/kenopower/ l2_keno_power_service_UAT_be
 ^/uat/casinoholdempoker/ l2_casino_holdem_poker_service_UAT_be
@@ -116,7 +117,6 @@
 ^/sit/threecards/ l2_three_cards_service_SIT_be
 ^/sit/kenosoccer/ default_backend_nodes
 ^/sit/heroesslot/ l2_heroes_slot_service_SIT_be
-^/sit/kenomatch/ l2_keno_match_service_SIT_be
 ^/sit/minikeno/ l2_mini_keno_service_SIT_be
 ^/sit/kenopower/ l2_keno_power_service_SIT_be
 ^/sit/casinoholdempoker/ l2_casino_holdem_poker_service_SIT_be
