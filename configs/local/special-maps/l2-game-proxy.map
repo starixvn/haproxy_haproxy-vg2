@@ -1,3 +1,4 @@
+^/minisedie(/.*)?$ pentagon_l2_sedie_multiplay_service_LOCAL_path_be
 ^/dragontiger(/.*)?$ pentagon_l2_dragon_tiger_service_LOCAL_path_be
 ^/fishprawncrab(/.*)?$ pentagon_l2_fish_prawn_crab_service_LOCAL_path_be
 ^/turbooddeven(/.*)?$ pentagon_l2_turbo_odd_even_service_LOCAL_path_be
@@ -61,7 +62,6 @@
 ^/kenopromax/ l2_keno_pro_max_service_LOCAL_be
 ^/bigsmall/ l2_big_small_service_LOCAL_be
 ^/user/ l2_user_service_LOCAL_be
-^/minisedie/ l2_mini_sedie_service_LOCAL_be
 ^/turbobigsmall/ l2_turbo_big_small_service_LOCAL_be
 ^/baccarat/ l2_baccarat_service_LOCAL_be
 ^/roulette/ l2_roulette_service_LOCAL_be
