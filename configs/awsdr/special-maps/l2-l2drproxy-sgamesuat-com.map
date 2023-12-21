@@ -1,7 +1,7 @@
+^/dragontiger(/.*)?$ pentagon_l2_dragon_tiger_service_AWSDR_path_be
 ^/fishprawncrab(/.*)?$ pentagon_l2_fish_prawn_crab_service_AWSDR_path_be
 ^/game(/.*)?$ pentagon_l2_game_configuration_service_AWSDR_path_be
 ^/sicbo(/.*)?$ pentagon_l2_sicbo_service_AWSDR_path_be
-^/dragontiger(/.*)?$ pentagon_l2_dragon_tiger_service_AWSDR_path_be
 ^/baccarat(/.*)?$ pentagon_l2_baccarat_service_AWSDR_path_be
 ^/minisedie(/.*)?$ pentagon_l2_sedie_multiplay_service_AWSDR_path_be
 ^/vsedie(/.*)?$ pentagon_l2_vip_sedie_service_AWSDR_path_be

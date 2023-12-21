@@ -68,7 +68,6 @@
 ^/uat/user/ l2_user_service_UAT_be
 ^/uat/minisedie/ l2_mini_sedie_service_UAT_be
 ^/uat/turbobigsmall/ l2_turbo_big_small_service_UAT_be
-^/uat/dragontiger/ l2_dragon_tiger_service_UAT_be
 ^/uat/baccarat/ l2_baccarat_service_UAT_be
 ^/uat/roulette/ l2_roulette_service_UAT_be
 ^/uat/fourguardians/ l2_four_guardians_service_UAT_be
@@ -110,7 +109,6 @@
 ^/sit/user/ l2_user_service_SIT_be
 ^/sit/minisedie/ l2_mini_sedie_service_SIT_be
 ^/sit/turbobigsmall/ l2_turbo_big_small_service_SIT_be
-^/sit/dragontiger/ l2_dragon_tiger_service_SIT_be
 ^/sit/baccarat/ l2_baccarat_service_SIT_be
 ^/sit/roulette/ l2_roulette_service_SIT_be
 ^/sit/fourguardians/ l2_four_guardians_service_SIT_be

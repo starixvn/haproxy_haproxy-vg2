@@ -1,3 +1,4 @@
+^/dragontiger(/.*)?$ pentagon_l2_dragon_tiger_service_LOCAL_1_path_be
 ^/fishprawncrab(/.*)?$ pentagon_l2_fish_prawn_crab_service_LOCAL_1_path_be
 ^/turbooddeven(/.*)?$ pentagon_l2_turbo_odd_even_service_LOCAL_1_path_be
 ^/vipfishprawncrab(/.*)?$ pentagon_l2_vip_fish_prawn_crab_service_LOCAL_1_path_be
@@ -54,7 +55,6 @@
 ^/user/ l2_user_service_LOCAL_1_be
 ^/minisedie/ l2_mini_sedie_service_LOCAL_1_be
 ^/turbobigsmall/ l2_turbo_big_small_service_LOCAL_1_be
-^/dragontiger/ l2_dragon_tiger_service_LOCAL_1_be
 ^/baccarat/ l2_baccarat_service_LOCAL_1_be
 ^/roulette/ l2_roulette_service_LOCAL_1_be
 ^/fourguardians/ l2_four_guardians_service_LOCAL_1_be
