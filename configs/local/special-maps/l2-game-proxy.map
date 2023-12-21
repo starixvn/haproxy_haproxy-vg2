@@ -1,3 +1,4 @@
+^/game-client-52(/.*)?$ pentagon_l2_mega_keno_client_LOCAL_path_be
 ^/game-client-9(/.*)?$ pentagon_l2_mini_sedie_client_LOCAL_path_be
 ^/baccarat(/.*)?$ pentagon_l2_baccarat_service_LOCAL_path_be
 ^/minisedie(/.*)?$ pentagon_l2_sedie_multiplay_service_LOCAL_path_be
@@ -84,7 +85,6 @@
 ^/unbalancedbigsmall/ l2_unbalanced_bigsmall_service_LOCAL_be
 ^/game-client-50/ l2_unbalanced_bigsmall_client_LOCAL_be
 ^/waytogoal/ l2_way_to_goal_service_LOCAL_be
-^/game-client-52/ l2_mega_keno_client_LOCAL_be
 ^/game-client-59/ l2_fruit_slot_client_LOCAL_be
 ^/fruitslot/ l2_fruit_slot_service_LOCAL_be
 ^/game-client-60/ l2_fantan_client_LOCAL_be
