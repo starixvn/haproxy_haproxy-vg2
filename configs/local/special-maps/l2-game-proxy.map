@@ -1,3 +1,4 @@
+^/baccarat(/.*)?$ pentagon_l2_baccarat_service_LOCAL_path_be
 ^/minisedie(/.*)?$ pentagon_l2_sedie_multiplay_service_LOCAL_path_be
 ^/dragontiger(/.*)?$ pentagon_l2_dragon_tiger_service_LOCAL_path_be
 ^/fishprawncrab(/.*)?$ pentagon_l2_fish_prawn_crab_service_LOCAL_path_be
@@ -63,7 +64,6 @@
 ^/bigsmall/ l2_big_small_service_LOCAL_be
 ^/user/ l2_user_service_LOCAL_be
 ^/turbobigsmall/ l2_turbo_big_small_service_LOCAL_be
-^/baccarat/ l2_baccarat_service_LOCAL_be
 ^/roulette/ l2_roulette_service_LOCAL_be
 ^/fourguardians/ l2_four_guardians_service_LOCAL_be
 ^/lottery/ l2_lottery_service_LOCAL_be
