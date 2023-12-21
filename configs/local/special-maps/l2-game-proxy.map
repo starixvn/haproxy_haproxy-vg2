@@ -1,3 +1,4 @@
+^/turbooddeven(/.*)?$ pentagon_l2_turbo_odd_even_service_LOCAL_path_be
 ^/vipfishprawncrab(/.*)?$ pentagon_l2_vip_fish_prawn_crab_service_LOCAL_path_be
 ^/vipbaccarat(/.*)?$ pentagon_l2_vip_baccarat_service_LOCAL_path_be
 ^/kenomatch(/.*)?$ pentagon_l2_keno_match_service_LOCAL_path_be
@@ -55,7 +56,6 @@
 ^/blackjack/ l2_blackjack_service_LOCAL_be
 ^/sicbo/ l2_sicbo_service_LOCAL_be
 ^/vipsediewar/ l2_vip_sedie_war_service_LOCAL_be
-^/turbooddeven/ l2_turbo_odd_even_service_LOCAL_be
 ^/kenopromax/ l2_keno_pro_max_service_LOCAL_be
 ^/bigsmall/ l2_big_small_service_LOCAL_be
 ^/user/ l2_user_service_LOCAL_be

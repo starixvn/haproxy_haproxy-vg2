@@ -1,3 +1,5 @@
+^/sit/turbooddeven(/.*)?$ pentagon_l2_turbo_odd_even_service_SIT_path_be
+^/uat/turbooddeven(/.*)?$ pentagon_l2_turbo_odd_even_service_UAT_path_be
 ^/sit/vipfishprawncrab(/.*)?$ pentagon_l2_vip_fish_prawn_crab_service_SIT_path_be
 ^/uat/vipfishprawncrab(/.*)?$ pentagon_l2_vip_fish_prawn_crab_service_UAT_path_be
 ^/sit/vipbaccarat(/.*)?$ pentagon_l2_vip_baccarat_service_SIT_path_be
@@ -59,7 +61,6 @@
 ^/uat/blackjack/ l2_blackjack_service_UAT_be
 ^/uat/sicbo/ l2_sicbo_service_UAT_be
 ^/uat/vipsediewar/ l2_vip_sedie_war_service_UAT_be
-^/uat/turbooddeven/ l2_turbo_odd_even_service_UAT_be
 ^/uat/kenopromax/ l2_keno_pro_max_service_UAT_be
 ^/uat/bigsmall/ l2_big_small_service_UAT_be
 ^/uat/user/ l2_user_service_UAT_be
@@ -103,7 +104,6 @@
 ^/sit/blackjack/ l2_blackjack_service_SIT_be
 ^/sit/sicbo/ l2_sicbo_service_SIT_be
 ^/sit/vipsediewar/ l2_vip_sedie_war_service_SIT_be
-^/sit/turbooddeven/ l2_turbo_odd_even_service_SIT_be
 ^/sit/kenopromax/ l2_keno_pro_max_service_SIT_be
 ^/sit/bigsmall/ l2_big_small_service_SIT_be
 ^/sit/user/ l2_user_service_SIT_be
