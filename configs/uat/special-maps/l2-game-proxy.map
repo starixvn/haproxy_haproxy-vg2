@@ -1,3 +1,5 @@
+^/sit/onepiece(/.*)?$ pentagon_l2_one_piece_service_SIT_path_be
+^/uat/onepiece(/.*)?$ pentagon_l2_one_piece_service_UAT_path_be
 ^/sit/fishprawncrab(/.*)?$ pentagon_l2_fish_prawn_crab_service_SIT_path_be
 ^/uat/fishprawncrab(/.*)?$ pentagon_l2_fish_prawn_crab_service_UAT_path_be
 ^/sit/turbooddeven(/.*)?$ pentagon_l2_turbo_odd_even_service_SIT_path_be
