@@ -1,3 +1,5 @@
+^/sit/spaceflight(/.*)?$ pentagon_l2_spaceflight_service_SIT_path_be
+^/uat/spaceflight(/.*)?$ pentagon_l2_spaceflight_service_UAT_path_be
 ^/sit/onepiece(/.*)?$ pentagon_l2_one_piece_service_SIT_path_be
 ^/uat/onepiece(/.*)?$ pentagon_l2_one_piece_service_UAT_path_be
 ^/sit/fishprawncrab(/.*)?$ pentagon_l2_fish_prawn_crab_service_SIT_path_be
