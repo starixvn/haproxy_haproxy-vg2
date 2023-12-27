@@ -1,3 +1,4 @@
+^/happyfish(/.*)?$ pentagon_l2_happy_fish_service_LOCAL_2_path_be
 ^/djclub(/.*)?$ pentagon_l2_dj_club_service_LOCAL_2_path_be
 ^/notification(/.*)?$ pentagon_l2_notification_service_LOCAL_2_path_be
 ^/fortunecat(/.*)?$ pentagon_l2_fortune_cat_service_LOCAL_2_path_be
