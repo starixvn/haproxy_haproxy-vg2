@@ -1,3 +1,4 @@
+^/notification(/.*)?$ pentagon_l2_notification_service_LOCAL_2_path_be
 ^/fortunecat(/.*)?$ pentagon_l2_fortune_cat_service_LOCAL_2_path_be
 ^/nightclub(/.*)?$ pentagon_l2_night_club_service_LOCAL_2_path_be
 ^/game-client-52(/.*)?$ pentagon_l2_mega_keno_client_LOCAL_2_path_be
