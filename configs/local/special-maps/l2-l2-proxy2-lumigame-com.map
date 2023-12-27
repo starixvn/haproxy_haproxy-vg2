@@ -1,3 +1,4 @@
+^/treasureisland(/.*)?$ pentagon_l2_treasure_island_service_LOCAL_2_path_be
 ^/magicforest(/.*)?$ pentagon_l2_magic_forest_service_LOCAL_2_path_be
 ^/happyfish(/.*)?$ pentagon_l2_happy_fish_service_LOCAL_2_path_be
 ^/djclub(/.*)?$ pentagon_l2_dj_club_service_LOCAL_2_path_be
