@@ -1,3 +1,4 @@
+^/blockchainbaccarat(/.*)?$ pentagon_l2_blockchain_baccarat_service_LOCAL_2_path_be
 ^/game-client-48(/.*)?$ pentagon_l2_blockchain_baccarat_client_LOCAL_2_path_be
 ^/game-client-50(/.*)?$ pentagon_l2_unbalanced_bigsmall_client_LOCAL_2_path_be
 ^/blackjack(/.*)?$ pentagon_l2_blackjack_service_LOCAL_2_path_be
