@@ -1,3 +1,4 @@
+^/monitoring(/.*)?$ pentagon_l2_admin_monitoring_site_LOCAL_2_path_be
 ^/unbalancedbigsmall(/.*)?$ pentagon_l2_unbalanced_bigsmall_service_LOCAL_2_path_be
 ^/threecards(/.*)?$ pentagon_l2_three_cards_service_LOCAL_2_path_be
 ^/fantan(/.*)?$ pentagon_l2_fantan_service_LOCAL_2_path_be
