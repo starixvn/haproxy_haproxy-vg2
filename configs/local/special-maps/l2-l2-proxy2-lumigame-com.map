@@ -1,3 +1,4 @@
+^/game-client-49(/.*)?$ pentagon_l2_way_to_goal_client_LOCAL_2_path_be
 ^/bitcoinmaster(/.*)?$ pentagon_l2_bitcoin_master_service_LOCAL_2_path_be
 ^/waytogoal(/.*)?$ pentagon_l2_way_to_goal_service_LOCAL_2_path_be
 ^/treasureisland(/.*)?$ pentagon_l2_treasure_island_service_LOCAL_2_path_be
