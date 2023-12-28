@@ -1,3 +1,4 @@
+^/fantan(/.*)?$ pentagon_l2_fantan_service_LOCAL_2_path_be
 ^/heroesslot(/.*)?$ pentagon_l2_heroes_slot_service_LOCAL_2_path_be
 ^/game-client-47(/.*)?$ pentagon_l2_vg2_treasure_island_client_LOCAL_2_path_be
 ^/game-client-64(/.*)?$ pentagon_l2_magic_forest_client_LOCAL_2_path_be
