@@ -1,3 +1,4 @@
+^/dragontigerfight(/.*)?$ pentagon_l2_dragon_tiger_fight_service_LOCAL_2_path_be
 ^/winthreecards(/.*)?$ pentagon_l2_win_three_cards_service_LOCAL_2_path_be
 ^/texasholdempoker(/.*)?$ pentagon_l2_texas_holdem_poker_service_LOCAL_2_path_be
 ^/specialsedie(/.*)?$ pentagon_l2_special_sedie_service_LOCAL_2_path_be
