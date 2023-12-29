@@ -1,3 +1,4 @@
+^/lottery(/.*)?$ pentagon_l2_lottery_service_LOCAL_2_path_be
 ^/game-client-59(/.*)?$ pentagon_l2_fruit_slot_client_LOCAL_2_path_be
 ^/fruitslot(/.*)?$ pentagon_l2_fruit_slot_service_LOCAL_2_path_be
 ^/blockchainbaccarat(/.*)?$ pentagon_l2_blockchain_baccarat_service_LOCAL_2_path_be
