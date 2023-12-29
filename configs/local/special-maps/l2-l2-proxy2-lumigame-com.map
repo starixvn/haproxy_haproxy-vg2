@@ -1,3 +1,4 @@
+^/texasholdempoker(/.*)?$ pentagon_l2_texas_holdem_poker_service_LOCAL_2_path_be
 ^/specialsedie(/.*)?$ pentagon_l2_special_sedie_service_LOCAL_2_path_be
 ^/sicbo(/.*)?$ pentagon_l2_sicbo_service_LOCAL_2_path_be
 ^/vipsediewar(/.*)?$ pentagon_l2_vip_sedie_war_service_LOCAL_2_path_be
