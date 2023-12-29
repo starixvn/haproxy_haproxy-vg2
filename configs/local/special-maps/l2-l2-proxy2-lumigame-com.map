@@ -1,3 +1,4 @@
+^/vipsediewar(/.*)?$ pentagon_l2_vip_sedie_war_service_LOCAL_2_path_be
 ^/roulette(/.*)?$ pentagon_l2_roulette_service_LOCAL_2_path_be
 ^/lottery(/.*)?$ pentagon_l2_lottery_service_LOCAL_2_path_be
 ^/game-client-59(/.*)?$ pentagon_l2_fruit_slot_client_LOCAL_2_path_be
