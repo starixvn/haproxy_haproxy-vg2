@@ -1,3 +1,4 @@
+^/missionimpossible(/.*)?$ pentagon_l2_mission_impossible_service_LOCAL_2_path_be
 ^/transformers(/.*)?$ pentagon_l2_transformers_service_LOCAL_2_path_be
 ^/game-client-72(/.*)?$ pentagon_l2_pontoon_client_LOCAL_2_path_be
 ^/pontoon(/.*)?$ pentagon_l2_pontoon_service_LOCAL_2_path_be
