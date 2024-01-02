@@ -1,3 +1,4 @@
+^/blackpink(/.*)?$ pentagon_l2_blackpink_service_LOCAL_2_path_be
 ^/game-client-69(/.*)?$ pentagon_l2_blackpink_client_LOCAL_2_path_be
 ^/game-client-70(/.*)?$ pentagon_l2_transformers_client_LOCAL_2_path_be
 ^/missionimpossible(/.*)?$ pentagon_l2_mission_impossible_service_LOCAL_2_path_be
