@@ -1,3 +1,4 @@
+^/sit/dragontiger(/.*)?$ pentagon_l2_dragon_tiger_service_SIT_path_be
 ^/sit/game-management-service(/.*)?$ pentagon_l2_game_management_service_SIT_path_be
 ^/sit/spaceflight(/.*)?$ pentagon_l2_spaceflight_service_SIT_path_be
 ^/uat/spaceflight(/.*)?$ pentagon_l2_spaceflight_service_UAT_path_be
