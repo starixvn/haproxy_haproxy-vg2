@@ -1,3 +1,4 @@
+^/hilo(/.*)?$ pentagon_l2_hilo_service_LOCAL_2_path_be
 ^/minikeno(/.*)?$ pentagon_l2_mini_keno_service_LOCAL_2_path_be
 ^/game-client-66(/.*)?$ pentagon_l2_candy_land_client_LOCAL_2_path_be
 ^/candyland(/.*)?$ pentagon_l2_candy_land_service_LOCAL_2_path_be
