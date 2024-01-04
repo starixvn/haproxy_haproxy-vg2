@@ -1,3 +1,4 @@
+^/onepiece(/.*)?$ pentagon_l2_one_piece_service_LOCAL_2_path_be
 ^/bandarqiuqiu(/.*)?$ pentagon_l2_bandar_qiu_qiu_service_LOCAL_2_path_be
 ^/site-75(/.*)?$ pentagon_l2_bandar_qiu_qiu_client_LOCAL_2_path_be
 ^/casinoholdempoker(/.*)?$ pentagon_l2_casino_holdem_poker_service_LOCAL_2_path_be
@@ -69,7 +70,6 @@
 ^/game(/.*)?$ pentagon_l2_game_configuration_service_LOCAL_2_path_be
 ^/bigsmall(/.*)?$ pentagon_l2_big_small_service_LOCAL_2_path_be
 ^/user(/.*)?$ pentagon_l2_user_service_LOCAL_2_path_be
-^/onepiece(/.*)?$ pentagon_l2_one_piece_service_LOCAL_2_path_be
 ^/game-client-68(/.*)?$ pentagon_l2_mission_impossible_client_LOCAL_2_path_be
 ^/game-client-65(/.*)?$ pentagon_l2_dj_club_client_LOCAL_2_path_be
 ^/game-client-63(/.*)?$ pentagon_l2_happy_fish_client_LOCAL_2_path_be
