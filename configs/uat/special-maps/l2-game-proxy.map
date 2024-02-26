@@ -1,3 +1,5 @@
+^/sit/mongoexpress(/.*)?$ pentagon_l2_mongo_express_service_SIT_path_be
+^/uat/mongoexpress(/.*)?$ pentagon_l2_mongo_express_service_UAT_path_be
 ^/uat/dragontiger(/.*)?$ pentagon_l2_dragon_tiger_service_UAT_path_be
 ^/sit/dragonball(/.*)?$ pentagon_l2_dragon_ball_service_SIT_path_be
 ^/uat/dragonball(/.*)?$ pentagon_l2_dragon_ball_service_UAT_path_be
