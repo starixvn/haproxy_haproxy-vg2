@@ -1,3 +1,4 @@
+^/chineseblackjack(/.*)?$ pentagon_l2_chinese_blackjack_service_LOCAL_1_path_be
 ^/game-client-76(/.*)?$ pentagon_l2_dragon_ball_client_LOCAL_1_path_be
 ^/dragonball(/.*)?$ pentagon_l2_dragon_ball_service_LOCAL_1_path_be
 ^/game-management-service(/.*)?$ pentagon_l2_game_management_service_LOCAL_1_path_be
