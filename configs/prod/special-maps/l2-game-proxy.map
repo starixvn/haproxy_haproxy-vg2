@@ -1,3 +1,4 @@
+^/spaceflight(/.*)?$ pentagon_l2_spaceflight_service_PROD_path_be
 ^/game-client-76(/.*)?$ pentagon_l2_dragon_ball_client_PROD_path_be
 ^/dragonball(/.*)?$ pentagon_l2_dragon_ball_service_PROD_path_be
 ^/game-management-service(/.*)?$ pentagon_l2_game_management_service_PROD_path_be
@@ -82,4 +83,3 @@
 ^/game-client-77/ l2_chinese_blackjack_client_PROD_be
 ^/chineseblackjack/ l2_chinese_blackjack_service_PROD_be
 ^/ pentagon_l2_notification_service_PROD_path_be
-
