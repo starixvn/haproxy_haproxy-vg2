@@ -1,3 +1,4 @@
+^/site-73(/.*)?$ pentagon_l2_spaceflight_client_LOCAL_2_path_be
 ^/chineseblackjack(/.*)?$ pentagon_l2_chinese_blackjack_service_LOCAL_2_path_be
 ^/game-client-76(/.*)?$ pentagon_l2_dragon_ball_client_LOCAL_2_path_be
 ^/dragonball(/.*)?$ pentagon_l2_dragon_ball_service_LOCAL_2_path_be
