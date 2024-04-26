@@ -1,3 +1,4 @@
+^/game-client-79(/.*)?$ pentagon_l2_football_slot_client_LOCAL_1_path_be
 ^/site-78(/.*)?$ pentagon_l2_football_dice_client_LOCAL_1_path_be
 ^/footballdice(/.*)?$ pentagon_l2_football_dice_service_LOCAL_1_path_be
 ^/chineseblackjack(/.*)?$ pentagon_l2_chinese_blackjack_service_LOCAL_1_path_be
