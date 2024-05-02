@@ -1,3 +1,5 @@
+^/sit/footballslot(/.*)?$ pentagon_l2_football_slot_service_SIT_path_be
+^/uat/footballslot(/.*)?$ pentagon_l2_football_slot_service_UAT_path_be
 ^/sit/footballdice(/.*)?$ pentagon_l2_football_dice_service_SIT_path_be
 ^/uat/footballdice(/.*)?$ pentagon_l2_football_dice_service_UAT_path_be
 ^/sit/chineseblackjack(/.*)?$ pentagon_l2_chinese_blackjack_service_SIT_path_be
