@@ -1,3 +1,5 @@
+^/sit/game-client-80(/.*)?$ pentagon_l2_mini_coin_toss_client_SIT_path_be
+^/uat/game-client-80(/.*)?$ pentagon_l2_mini_coin_toss_client_UAT_path_be
 ^/sit/site-instant-80(/.*)?$ pentagon_l2_instant_coin_toss_client_SIT_path_be
 ^/uat/site-instant-80(/.*)?$ pentagon_l2_instant_coin_toss_client_UAT_path_be
 ^/sit/game-client-79(/.*)?$ pentagon_l2_football_slot_client_SIT_path_be
