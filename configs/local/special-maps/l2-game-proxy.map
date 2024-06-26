@@ -1,3 +1,4 @@
+^/game-client-80(/.*)?$ pentagon_l2_mini_coin_toss_client_LOCAL_path_be
 ^/cointoss(/.*)?$ pentagon_l2_coin_toss_service_LOCAL_path_be
 ^/site-instant-80(/.*)?$ pentagon_l2_instant_coin_toss_client_LOCAL_path_be
 ^/game-client-79(/.*)?$ pentagon_l2_football_slot_client_LOCAL_path_be
