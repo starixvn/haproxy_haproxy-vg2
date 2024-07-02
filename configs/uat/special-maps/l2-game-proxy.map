@@ -1,3 +1,4 @@
+^/uat/footballcointoss(/.*)?$ pentagon_l2_football_coin_toss_service_UAT_path_be
 ^/sit/cointoss(/.*)?$ pentagon_l2_coin_toss_service_SIT_path_be
 ^/uat/cointoss(/.*)?$ pentagon_l2_coin_toss_service_UAT_path_be
 ^/sit/footballslot(/.*)?$ pentagon_l2_football_slot_service_SIT_path_be
