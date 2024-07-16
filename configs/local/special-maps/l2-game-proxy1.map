@@ -1,3 +1,4 @@
+^/game-api(/.*)?$ pentagon_l2_game_api_LOCAL_1_path_be
 ^/promotion(/.*)?$ pentagon_l2_promotion_site_LOCAL_1_path_be
 ^/game-client-80(/.*)?$ pentagon_l2_mini_coin_toss_client_LOCAL_1_path_be
 ^/cointoss(/.*)?$ pentagon_l2_coin_toss_service_LOCAL_1_path_be
