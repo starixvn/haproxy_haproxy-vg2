@@ -13,6 +13,7 @@ l2-guide.lumigame.com l2_game_guides_LOCAL_be
 l2-gw.lumigame.com l2_socket_gateway_LOCAL_be
 l2-mini.lumigame.com l2_instant_game_client_LOCAL_be
 l2-keno.lumigame.com l2_game_client_mega_keno_mobi_LOCAL_be
+l2-promotion.lumigame.com pentagon_l2_promotion_site_LOCAL_path_be
 
 #L2 LOCAL1
 l2-m1.lumigame.com l2_game_client_mobi_LOCAL_1_be
@@ -28,3 +29,4 @@ l2-guide-1.lumigame.com l2_game_guides_LOCAL_1_be
 l2-gw1.lumigame.com l2_socket_gateway_LOCAL_1_be
 l2-mini1.lumigame.com l2_instant_game_client_LOCAL_1_be
 l2-keno1.lumigame.com l2_game_client_mega_keno_mobi_LOCAL_1_be
+l2-promotion1.lumigame.com pentagon_l2_promotion_site_LOCAL_1_path_be
