@@ -1,3 +1,4 @@
+^/baccaratx(/.*)?$ pentagon_l2_baccaratx_service_LOCAL_2_path_be
 ^/site-81(/.*)?$ pentagon_l2_bac81_client_LOCAL_2_path_be
 ^/game-client-80(/.*)?$ pentagon_l2_mini_coin_toss_client_LOCAL_2_path_be
 ^/cointoss(/.*)?$ pentagon_l2_coin_toss_service_LOCAL_2_path_be
