@@ -1,3 +1,5 @@
+^/sit/baccaratx(/.*)?$ pentagon_l2_baccaratx_service_SIT_path_be
+^/uat/baccaratx(/.*)?$ pentagon_l2_baccaratx_service_UAT_path_be
 ^/sit/promotion(/.*)?$ pentagon_l2_promotion_site_SIT_path_be
 ^/uat/promotion(/.*)?$ pentagon_l2_promotion_site_UAT_path_be
 ^/uat/footballcointoss(/.*)?$ pentagon_l2_football_coin_toss_service_UAT_path_be
