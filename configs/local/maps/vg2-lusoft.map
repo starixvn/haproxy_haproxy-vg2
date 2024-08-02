@@ -1,3 +1,5 @@
+l2-info1.lumigame.com pentagon_l2_info_site_client_LOCAL_1_be
+l2-info.lumigame.com pentagon_l2_info_site_client_LOCAL_be
 l2-promotion1.lumigame.com pentagon_l2_promotion_site_LOCAL_1_be
 l2-campaign1.lumigame.com pentagon_l2_promotion_site_LOCAL_1_be
 l2-promotion.lumigame.com pentagon_l2_promotion_site_LOCAL_be
@@ -17,7 +19,6 @@ l2-api2.lumigame.com pentagon_l2_sg_api_LOCAL_2_be
 l2-auth2.lumigame.com pentagon_l2_auth_api_LOCAL_2_be
 l2-history1.lumigame.com pentagon_l2_game_history_service_LOCAL_1_be
 l2-history.lumigame.com pentagon_l2_game_history_service_LOCAL_be
-l2-info.lumigame.com pentagon_l2_info_site_client_LOCAL_be
 #domainname           #backendname
 #L2 LOCAL
 l2-m.luminetsoft.com l2_game_client_mobi_LOCAL_be
