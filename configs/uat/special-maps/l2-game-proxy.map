@@ -1,3 +1,5 @@
+^/sit/sedie3(/.*)?$ pentagon_l2_sedie3_service_SIT_path_be
+^/uat/sedie3(/.*)?$ pentagon_l2_sedie3_service_UAT_path_be
 ^/sit/baccaratx(/.*)?$ pentagon_l2_baccaratx_service_SIT_path_be
 ^/uat/baccaratx(/.*)?$ pentagon_l2_baccaratx_service_UAT_path_be
 ^/uat/footballcointoss(/.*)?$ pentagon_l2_football_coin_toss_service_UAT_path_be
