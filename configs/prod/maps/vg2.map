@@ -44,8 +44,41 @@ keno2.v-gaming.net l2_game_client_mega_keno_mobi_PROD_be
 auth.vgaming.win l2_auth_api_PROD_be
 auth2.vgaming.win l2_auth_api_PROD_be
 
-
 vg-keno.foodpandaoh.net l2_game_client_mega_keno_mobi_PROD_be
 vg-www.foodpandaoh.net l2_game_client_PROD_be
 vg-m.foodpandaoh.net l2_game_client_mobi_PROD_be
 vg-mini.foodpandaoh.net l2_instant_game_client_PROD_be
+
+## Prod VG vgames88.com
+
+intapi.vgames88.com l2_sg_api_PROD_be
+intresult.vgames88.com l2_game_round_result_PROD_be
+
+www.vgames88.com l2_game_client_PROD_be
+w2.vgames88.com l2_game_client_PROD_be
+result.vgames88.com l2_game_round_result_PROD_be
+api.vgames88.com l2_sg_api_PROD_be
+m.vgames88.com l2_game_client_mobi_PROD_be
+guides.vgames88.com l2_game_guides_PROD_be
+gw.vgames88.com l2_socket_gateway_PROD_be
+mini.vgames88.com l2_instant_game_client_PROD_be
+keno.vgames88.com l2_game_client_mega_keno_mobi_PROD_be
+auth.vgames88.com l2_auth_api_PROD_be
+promotion.vgames88.com pentagon_l2_promotion_site_PROD_be
+
+## Prod VG playvgames.com
+
+intapi.playvgames.com l2_sg_api_PROD_be
+intresult.playvgames.com l2_game_round_result_PROD_be
+
+www.playvgames.com l2_game_client_PROD_be
+w2.playvgames.com l2_game_client_PROD_be
+result.playvgames.com l2_game_round_result_PROD_be
+api.playvgames.com l2_sg_api_PROD_be
+m.playvgames.com l2_game_client_mobi_PROD_be
+guides.playvgames.com l2_game_guides_PROD_be
+gw.playvgames.com l2_socket_gateway_PROD_be
+mini.playvgames.com l2_instant_game_client_PROD_be
+keno.playvgames.com l2_game_client_mega_keno_mobi_PROD_be
+auth.playvgames.com l2_auth_api_PROD_be
+promotion.playvgames.com pentagon_l2_promotion_site_PROD_be
