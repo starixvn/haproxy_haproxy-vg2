@@ -1,3 +1,5 @@
+^/sit/site-94(/.*)?$ pentagon_l2_pusoy_client_SIT_path_be
+^/uat/site-94(/.*)?$ pentagon_l2_pusoy_client_UAT_path_be
 ^/sit/site-96(/.*)?$ pentagon_l2_karakrus_client_SIT_path_be
 ^/uat/site-96(/.*)?$ pentagon_l2_karakrus_client_UAT_path_be
 ^/sit/site-95(/.*)?$ pentagon_l2_sedie3_client_SIT_path_be
