@@ -1,3 +1,5 @@
+^/sit/site-82(/.*)?$ pentagon_l2_bac82_client_SIT_path_be
+^/uat/site-82(/.*)?$ pentagon_l2_bac82_client_UAT_path_be
 ^/sit/game-client-102(/.*)?$ pentagon_l2_lobby_baccarat_client_SIT_path_be
 ^/uat/game-client-102(/.*)?$ pentagon_l2_lobby_baccarat_client_UAT_path_be
 ^/sit/site-94(/.*)?$ pentagon_l2_pusoy_client_SIT_path_be
