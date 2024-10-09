@@ -1,3 +1,5 @@
+^/sit/site-90(/.*)?$ pentagon_l2_bac90_client_SIT_path_be
+^/uat/site-90(/.*)?$ pentagon_l2_bac90_client_UAT_path_be
 ^/sit/site-89(/.*)?$ pentagon_l2_bac89_client_SIT_path_be
 ^/uat/site-89(/.*)?$ pentagon_l2_bac89_client_UAT_path_be
 ^/sit/site-88(/.*)?$ pentagon_l2_bac88_client_SIT_path_be
