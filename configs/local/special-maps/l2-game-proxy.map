@@ -1,3 +1,4 @@
+^/game-client-102(/.*)?$ pentagon_l2_lobby_baccarat_client_LOCAL_path_be
 ^/footballcointoss(/.*)?$ pentagon_l2_football_coin_toss_service_LOCAL_path_be
 ^/site-instant-93(/.*)?$ pentagon_l2_instant_fb_coin_toss_client_LOCAL_path_be
 ^/shared-resources(/.*)?$ pentagon_l2_shared_client_resources_LOCAL_path_be

@@ -1,3 +1,4 @@
+^/game-client-102(/.*)?$ pentagon_l2_lobby_baccarat_client_PROD_path_be
 ^/site-96(/.*)?$ pentagon_l2_karakrus_client_PROD_path_be
 ^/karakrus(/.*)?$ pentagon_l2_kara_krus_service_PROD_path_be
 ^/site-95(/.*)?$ pentagon_l2_sedie3_client_PROD_path_be
