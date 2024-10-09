@@ -1,3 +1,4 @@
+^/site-85(/.*)?$ pentagon_l2_bac85_client_LOCAL_path_be
 ^/site-84(/.*)?$ pentagon_l2_bac84_client_LOCAL_path_be
 ^/site-83(/.*)?$ pentagon_l2_bac83_client_LOCAL_path_be
 ^/shared-resources(/.*)?$ pentagon_l2_shared_client_resources_LOCAL_path_be
