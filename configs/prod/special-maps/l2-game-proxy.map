@@ -1,5 +1,4 @@
 ^/site-94(/.*)?$ pentagon_l2_pusoy_client_PROD_path_be
-^/pusoy(/.*)?$ pentagon_l2_pusoy_service_PROD_path_be
 ^/site-100(/.*)?$ pentagon_l2_bac100_client_PROD_path_be
 ^/site-98(/.*)?$ pentagon_l2_bac98_client_PROD_path_be
 ^/site-97(/.*)?$ pentagon_l2_bac97_client_PROD_path_be
