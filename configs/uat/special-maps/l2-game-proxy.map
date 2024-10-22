@@ -1,3 +1,4 @@
+^/sit/footballcointoss(/.*)?$ pentagon_l2_football_coin_toss_service_SIT_path_be
 ^/sit/pusoy(/.*)?$ pentagon_l2_pusoy_service_SIT_path_be
 ^/uat/pusoy(/.*)?$ pentagon_l2_pusoy_service_UAT_path_be
 ^/sit/karakrus(/.*)?$ pentagon_l2_kara_krus_service_SIT_path_be
