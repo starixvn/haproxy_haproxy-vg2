@@ -1,3 +1,4 @@
+^/game-client-93(/.*)?$ pentagon_l2_mini_football_coin_toss_client_PROD_path_be
 ^/site-101(/.*)?$ pentagon_l2_bac101_client_PROD_path_be
 ^/pusoy(/.*)?$ pentagon_l2_pusoy_service_PROD_path_be
 ^/site-94(/.*)?$ pentagon_l2_pusoy_client_PROD_path_be
