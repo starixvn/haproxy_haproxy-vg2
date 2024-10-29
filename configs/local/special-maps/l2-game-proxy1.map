@@ -1,3 +1,4 @@
+^/game-client-93(/.*)?$ pentagon_l2_mini_football_coin_toss_client_LOCAL_1_path_be
 ^/site-100(/.*)?$ pentagon_l2_bac100_client_LOCAL_1_path_be
 ^/site-98(/.*)?$ pentagon_l2_bac98_client_LOCAL_1_path_be
 ^/site-97(/.*)?$ pentagon_l2_bac97_client_LOCAL_1_path_be
@@ -13,7 +14,6 @@
 ^/site-83(/.*)?$ pentagon_l2_bac83_client_LOCAL_1_path_be
 ^/shared-resources(/.*)?$ pentagon_l2_shared_client_resources_LOCAL_1_path_be
 ^/site-82(/.*)?$ pentagon_l2_bac82_client_LOCAL_1_path_be
-^/game-client-93(/.*)?$ pentagon_l2_mini_football_coin_toss_client_LOCAL_1_path_be
 ^/game-client-102(/.*)?$ pentagon_l2_lobby_baccarat_client_LOCAL_1_path_be
 ^/footballcointoss(/.*)?$ pentagon_l2_football_coin_toss_service_LOCAL_1_path_be
 ^/site-instant-93(/.*)?$ pentagon_l2_instant_fb_coin_toss_client_LOCAL_1_path_be
