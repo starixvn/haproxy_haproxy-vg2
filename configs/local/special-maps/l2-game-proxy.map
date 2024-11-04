@@ -1,3 +1,4 @@
+^/sevenupdown(/.*)?$ pentagon_l2_sevenupdown_service_LOCAL_path_be
 ^/game-client-93(/.*)?$ pentagon_l2_mini_football_coin_toss_client_LOCAL_path_be
 ^/site-100(/.*)?$ pentagon_l2_bac100_client_LOCAL_path_be
 ^/site-98(/.*)?$ pentagon_l2_bac98_client_LOCAL_path_be
