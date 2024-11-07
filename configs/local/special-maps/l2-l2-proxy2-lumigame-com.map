@@ -1,3 +1,4 @@
+^/site-94(/.*)?$ pentagon_l2_pusoy_client_LOCAL_2_path_be
 ^/game-client-103(/.*)?$ pentagon_l2_mini_seven_up_down_client_LOCAL_2_path_be
 ^/sevenupdown(/.*)?$ pentagon_l2_sevenupdown_service_LOCAL_2_path_be
 ^/game-client-93(/.*)?$ pentagon_l2_mini_football_coin_toss_client_LOCAL_2_path_be

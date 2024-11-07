@@ -1,3 +1,4 @@
+^/site-94(/.*)?$ pentagon_l2_pusoy_client_LOCAL_path_be
 ^/game-client-103(/.*)?$ pentagon_l2_mini_seven_up_down_client_LOCAL_path_be
 ^/sevenupdown(/.*)?$ pentagon_l2_sevenupdown_service_LOCAL_path_be
 ^/game-client-93(/.*)?$ pentagon_l2_mini_football_coin_toss_client_LOCAL_path_be
@@ -19,7 +20,6 @@
 ^/game-client-102(/.*)?$ pentagon_l2_lobby_baccarat_client_LOCAL_path_be
 ^/footballcointoss(/.*)?$ pentagon_l2_football_coin_toss_service_LOCAL_path_be
 ^/site-instant-93(/.*)?$ pentagon_l2_instant_fb_coin_toss_client_LOCAL_path_be
-^/site-94(/.*)?$ pentagon_l2_pusoy_client_LOCAL_path_be
 ^/pusoy(/.*)?$ pentagon_l2_pusoy_service_LOCAL_path_be
 ^/karakrus(/.*)?$ pentagon_l2_kara_krus_service_LOCAL_path_be
 ^/site-95(/.*)?$ pentagon_l2_sedie3_client_LOCAL_path_be
