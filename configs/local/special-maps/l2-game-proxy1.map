@@ -119,7 +119,6 @@
 ^/unbalancedbigsmall/ l2_unbalanced_bigsmall_service_LOCAL_1_be
 ^/game-client-50/ l2_unbalanced_bigsmall_client_LOCAL_1_be
 ^/waytogoal/ l2_way_to_goal_service_LOCAL_1_be
-^/game-client-49/ l2_way_to_goal_client_LOCAL_1_be
 ^/game-client-59/ l2_fruit_slot_client_LOCAL_1_be
 ^/fruitslot/ l2_fruit_slot_service_LOCAL_1_be
 ^/game-client-60/ l2_fantan_client_LOCAL_1_be
