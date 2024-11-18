@@ -1,8 +1,8 @@
+^/uat/game-client-103(/.*)?$ pentagon_l2_mini_seven_up_down_client_UAT_path_be
 ^/sit/site-101(/.*)?$ pentagon_l2_bac101_client_SIT_path_be
 ^/uat/site-101(/.*)?$ pentagon_l2_bac101_client_UAT_path_be
 ^/sit/game-client-46(/.*)?$ pentagon_l2_night_club_client_SIT_path_be
 ^/uat/game-client-46(/.*)?$ pentagon_l2_night_club_client_UAT_path_be
-^/uat/game-client-103(/.*)?$ pentagon_l2_mini_seven_up_down_client_UAT_path_be
 ^/sit/site-78(/.*)?$ pentagon_l2_football_dice_client_SIT_path_be
 ^/uat/site-78(/.*)?$ pentagon_l2_football_dice_client_UAT_path_be
 ^/sit/game-client-93(/.*)?$ pentagon_l2_mini_football_coin_toss_client_SIT_path_be
