@@ -1,3 +1,4 @@
+^/game-client-38(/.*)?$ pentagon_l2_heroes_legend_client_PROD_path_be
 ^/game-client-103(/.*)?$ pentagon_l2_mini_seven_up_down_client_PROD_path_be
 ^/sevenupdown(/.*)?$ pentagon_l2_sevenupdown_service_PROD_path_be
 ^/game-client-46(/.*)?$ pentagon_l2_night_club_client_PROD_path_be
