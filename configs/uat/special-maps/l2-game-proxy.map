@@ -1,3 +1,5 @@
+^/sit/christmascrash(/.*)?$ pentagon_l2_christmas_crash_service_SIT_path_be
+^/uat/christmascrash(/.*)?$ pentagon_l2_christmas_crash_service_UAT_path_be
 ^/sit/sevenupdown(/.*)?$ pentagon_l2_sevenupdown_service_SIT_path_be
 ^/uat/sevenupdown(/.*)?$ pentagon_l2_sevenupdown_service_UAT_path_be
 ^/sit/footballcointoss(/.*)?$ pentagon_l2_football_coin_toss_service_SIT_path_be
