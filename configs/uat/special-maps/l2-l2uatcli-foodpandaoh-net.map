@@ -1,3 +1,5 @@
+^/sit/site-instant-103(/.*)?$ pentagon_l2_instant_seven_up_down_client_SIT_path_be
+^/uat/site-instant-103(/.*)?$ pentagon_l2_instant_seven_up_down_client_UAT_path_be
 ^/sit/site-106(/.*)?$ pentagon_l2_christmas_crash_client_SIT_path_be
 ^/uat/site-106(/.*)?$ pentagon_l2_christmas_crash_client_UAT_path_be
 ^/sit/game-client-38(/.*)?$ pentagon_l2_heroes_legend_client_SIT_path_be
