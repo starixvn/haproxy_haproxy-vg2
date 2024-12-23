@@ -1,3 +1,4 @@
+^/game-client-29(/.*)?$ pentagon_l2_four_guardians_client_PROD_path_be
 ^/site-instant-103(/.*)?$ pentagon_l2_instant_seven_up_down_client_PROD_path_be
 ^/christmascrash(/.*)?$ pentagon_l2_christmas_crash_service_PROD_path_be
 ^/site-106(/.*)?$ pentagon_l2_christmas_crash_client_PROD_path_be
