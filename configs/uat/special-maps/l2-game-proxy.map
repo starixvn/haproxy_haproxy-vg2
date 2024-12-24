@@ -112,7 +112,6 @@
 ^/uat/casinoholdempoker/ l2_casino_holdem_poker_service_UAT_be
 ^/uat/bitcoinmaster/ l2_bitcoin_master_service_UAT_be
 ^/uat/luckywheel/ l2_lucky_wheel_service_UAT_be
-^/uat/notification/ l2_notification_service_UAT_be
 ^/uat/texasholdempoker/ l2_texas_holdem_poker_service_UAT_be
 ^/uat/hilo/ l2_hilo_service_UAT_be
 ^/uat/nightclub/ l2_night_club_service_UAT_be
