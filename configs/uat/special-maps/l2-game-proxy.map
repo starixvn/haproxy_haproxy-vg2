@@ -99,7 +99,6 @@
 ^/uat/vipsediewar/ l2_vip_sedie_war_service_UAT_be
 ^/uat/kenopromax/ l2_keno_pro_max_service_UAT_be
 ^/uat/bigsmall/ l2_big_small_service_UAT_be
-^/uat/user/ l2_user_service_UAT_be
 ^/uat/minisedie/ l2_mini_sedie_service_UAT_be
 ^/uat/turbobigsmall/ l2_turbo_big_small_service_UAT_be
 ^/uat/baccarat/ l2_baccarat_service_UAT_be
