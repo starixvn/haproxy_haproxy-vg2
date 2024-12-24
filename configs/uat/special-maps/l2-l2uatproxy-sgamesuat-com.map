@@ -1,2 +1,4 @@
+^/sit/livepagegateway(/.*)?$ pentagon_l2_live_page_gateway_SIT_path_be
+^/uat/livepagegateway(/.*)?$ pentagon_l2_live_page_gateway_UAT_path_be
 ^/sit/livepageuser(/.*)?$ pentagon_l2_livepage_user_service_SIT_path_be
 ^/uat/livepageuser(/.*)?$ pentagon_l2_livepage_user_service_UAT_path_be
