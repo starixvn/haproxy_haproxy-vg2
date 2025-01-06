@@ -1,3 +1,5 @@
+^/sit/tapfortune(/.*)?$ pentagon_l2_tap_fortune_service_SIT_path_be
+^/uat/tapfortune(/.*)?$ pentagon_l2_tap_fortune_service_UAT_path_be
 ^/sit/marblefootball(/.*)?$ pentagon_l2_marblefootball_service_SIT_path_be
 ^/uat/marblefootball(/.*)?$ pentagon_l2_marblefootball_service_UAT_path_be
 ^/sit/livepageuser(/.*)?$ pentagon_l2_livepage_user_service_SIT_path_be
