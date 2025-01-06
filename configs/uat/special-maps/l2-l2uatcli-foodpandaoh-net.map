@@ -1,3 +1,5 @@
+^/sit/site-107(/.*)?$ pentagon_l2_tap_fortune_client_SIT_path_be
+^/uat/site-107(/.*)?$ pentagon_l2_tap_fortune_client_UAT_path_be
 ^/sit/site-104(/.*)?$ pentagon_l2_marble_football_client_SIT_path_be
 ^/uat/site-104(/.*)?$ pentagon_l2_marble_football_client_UAT_path_be
 ^/uat/game-client-29(/.*)?$ pentagon_l2_four_guardians_client_UAT_path_be
