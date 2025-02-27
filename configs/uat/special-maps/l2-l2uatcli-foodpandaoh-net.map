@@ -1,3 +1,5 @@
+^/sit/direct-client-2(/.*)?$ pentagon_l2_direct_sedie_game_client_SIT_path_be
+^/uat/direct-client-2(/.*)?$ pentagon_l2_direct_sedie_game_client_UAT_path_be
 ^/sit/site-109(/.*)?$ pentagon_l2_crypto_mining_client_SIT_path_be
 ^/uat/site-109(/.*)?$ pentagon_l2_crypto_mining_client_UAT_path_be
 ^/uat/site-107(/.*)?$ pentagon_l2_tap_fortune_client_UAT_path_be
