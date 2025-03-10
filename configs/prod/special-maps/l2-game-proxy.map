@@ -1,3 +1,4 @@
+^/direct-client-25(/.*)?$ pentagon_l2_direct_sicbo_game_client_PROD_path_be
 ^/direct-client-2(/.*)?$ pentagon_l2_direct_sedie_game_client_PROD_path_be
 ^/direct-client-67(/.*)?$ pentagon_l2_direct_dragon_tiger_fight_client_PROD_path_be
 ^/direct-client-10(/.*)?$ pentagon_l2_direct_baccarat_game_client_PROD_path_be
