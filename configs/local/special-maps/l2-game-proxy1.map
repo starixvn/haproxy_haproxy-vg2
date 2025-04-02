@@ -1,4 +1,4 @@
-^/direct-client-113(/.*)?$ pentagon_l2_direct_tap_fortune_client_LOCAL_1_path_be
+^/direct-client-113(/.*)?$ pentagon_l2_direct_rocketx_client_LOCAL_1_path_be
 ^/coinmining(/.*)?$ pentagon_l2_coin_mining_service_LOCAL_1_path_be
 ^/site-109(/.*)?$ pentagon_l2_crypto_mining_client_LOCAL_1_path_be
 ^/marblefootball(/.*)?$ pentagon_l2_marblefootball_service_LOCAL_1_path_be

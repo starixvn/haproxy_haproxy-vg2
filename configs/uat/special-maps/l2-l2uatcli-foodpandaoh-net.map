@@ -1,5 +1,5 @@
-^/sit/direct-client-113(/.*)?$ pentagon_l2_direct_tap_fortune_client_SIT_path_be
-^/uat/direct-client-113(/.*)?$ pentagon_l2_direct_tap_fortune_client_UAT_path_be
+^/sit/direct-client-113(/.*)?$ pentagon_l2_direct_rocketx_client_SIT_path_be
+^/uat/direct-client-113(/.*)?$ pentagon_l2_direct_rocketx_client_UAT_path_be
 ^/sit/direct-client-67(/.*)?$ pentagon_l2_direct_dragon_tiger_fight_client_SIT_path_be
 ^/uat/direct-client-67(/.*)?$ pentagon_l2_direct_dragon_tiger_fight_client_UAT_path_be
 ^/sit/direct-client-10(/.*)?$ pentagon_l2_direct_baccarat_game_client_SIT_path_be
