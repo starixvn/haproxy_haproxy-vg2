@@ -1,3 +1,4 @@
+^/site-114(/.*)?$ pentagon_l2_marble_football_2_client_PROD_path_be
 ^/godoffortune(/.*)?$ pentagon_l2_god_of_fortune_service_PROD_path_be
 ^/game-client-117(/.*)?$ pentagon_l2_god_of_fortune_client_PROD_path_be
 ^/top-stats(/.*)?$ pentagon_l2_top_win_stats_service_PROD_path_be
