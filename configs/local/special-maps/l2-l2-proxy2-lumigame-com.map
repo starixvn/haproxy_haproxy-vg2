@@ -1,3 +1,4 @@
+^/site-113(/.*)?$ pentagon_l2_rocketx_client_LOCAL_2_path_be
 ^/direct-client-113(/.*)?$ pentagon_l2_direct_rocketx_client_LOCAL_2_path_be
 ^/coinmining(/.*)?$ pentagon_l2_coin_mining_service_LOCAL_2_path_be
 ^/site-109(/.*)?$ pentagon_l2_crypto_mining_client_LOCAL_2_path_be

@@ -1,3 +1,5 @@
+^/sit/site-113(/.*)?$ pentagon_l2_rocketx_client_SIT_path_be
+^/uat/site-113(/.*)?$ pentagon_l2_rocketx_client_UAT_path_be
 ^/sit/site-114(/.*)?$ pentagon_l2_marble_football_2_client_SIT_path_be
 ^/uat/site-114(/.*)?$ pentagon_l2_marble_football_2_client_UAT_path_be
 ^/sit/direct-client-113(/.*)?$ pentagon_l2_direct_rocketx_client_SIT_path_be
