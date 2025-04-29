@@ -1,3 +1,4 @@
+^/admin-logs-api(/.*)?$ pentagon_l2_admin_logs_api_PROD_path_be
 ^/direct-client-107(/.*)?$ pentagon_l2_direct_tap_fortune_client_PROD_path_be
 ^/site-113(/.*)?$ pentagon_l2_rocketx_client_PROD_path_be
 ^/marblefootball2(/.*)?$ pentagon_l2_marblefootball2_service_PROD_path_be
