@@ -1,3 +1,4 @@
+^/direct-client-93(/.*)?$ pentagon_l2_direct_football_coin_toss_client_PROD_path_be
 ^/admin-stmt-api(/.*)?$ pentagon_l2_admin_statement_api_PROD_path_be
 ^/admin-logs-api(/.*)?$ pentagon_l2_admin_logs_api_PROD_path_be
 ^/direct-client-107(/.*)?$ pentagon_l2_direct_tap_fortune_client_PROD_path_be
