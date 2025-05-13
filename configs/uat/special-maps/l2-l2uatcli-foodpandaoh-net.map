@@ -1,3 +1,5 @@
+^/sit/direct-client-81(/.*)?$ pentagon_l2_direct_bac81_client_SIT_path_be
+^/uat/direct-client-81(/.*)?$ pentagon_l2_direct_bac81_client_UAT_path_be
 ^/sit/site-121(/.*)?$ pentagon_l2_wukongs_revenge_client_SIT_path_be
 ^/uat/site-121(/.*)?$ pentagon_l2_wukongs_revenge_client_UAT_path_be
 ^/sit/direct-client-93(/.*)?$ pentagon_l2_direct_football_coin_toss_client_SIT_path_be
