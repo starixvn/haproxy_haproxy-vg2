@@ -1,3 +1,4 @@
+^/templeofcaishen(/.*)?$ pentagon_l2_temple_of_caishen_service_PROD_path_be
 ^/direct-client-81(/.*)?$ pentagon_l2_direct_bac81_client_PROD_path_be
 ^/direct-client-93(/.*)?$ pentagon_l2_direct_football_coin_toss_client_PROD_path_be
 ^/admin-stmt-api(/.*)?$ pentagon_l2_admin_statement_api_PROD_path_be
