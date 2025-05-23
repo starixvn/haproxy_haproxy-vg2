@@ -1,3 +1,4 @@
+^/summerheat(/.*)?$ pentagon_l2_summer_heat_service_PROD_path_be
 ^/nezhasrebellion(/.*)?$ pentagon_l2_ne_zhas_rebellion_service_PROD_path_be
 ^/game-client-124(/.*)?$ pentagon_l2_ne_zhas_rebellion_client_PROD_path_be
 ^/game-client-122(/.*)?$ pentagon_l2_summer_heat_client_PROD_path_be
