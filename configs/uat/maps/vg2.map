@@ -1,3 +1,5 @@
+l2sitadm.sgamesuat.com pentagon_l2_admin_site_SIT_be
+l2uatadm.sgamesuat.com pentagon_l2_admin_site_UAT_be
 m.vgaming.io pentagon_l2_game_client_mobi_demo_SIT_be
 l2sitpromotion.sgamesuat.com pentagon_l2_promotion_site_SIT_be
 l2uatpromotion.sgamesuat.com pentagon_l2_promotion_site_UAT_be
@@ -10,7 +12,6 @@ l2sitglbs.sgamesuat.com pentagon_l2_game_lobby_simulator_SIT_be
 #SIT - L2
 l2sit.sgamesuat.com l2_game_client_SIT_be
 l2sitapi.sgamesuat.com l2_sg_api_SIT_be
-l2sitadm.sgamesuat.com l2_admin_site_SIT_be
 l2sitresult.sgamesuat.com l2_game_result_SIT_be
 l2sitm.sgamesuat.com l2_game_client_mobi_SIT_be
 l2guidessit.sgamesuat.com l2_game_guides_SIT_be
@@ -29,7 +30,6 @@ l2minisit.foodpandaoh.net l2_instant_game_client_SIT_be
 
 #UAT - L2
 l2uatapi.sgamesuat.com l2_sg_api_UAT_be
-l2uatadm.sgamesuat.com l2_admin_site_UAT_be
 l2uatresult.sgamesuat.com l2_game_result_UAT_be
 
 l2guidesuat.sgamesuat.com l2_game_guides_UAT_be
