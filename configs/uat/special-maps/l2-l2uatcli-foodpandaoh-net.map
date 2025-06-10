@@ -1,3 +1,4 @@
+^/uat/site-130(/.*)?$ pentagon_l2_aladdin_client_UAT_path_be
 ^/sit/site-instant-v2(/.*)?$ pentagon_l2_instant_game_v2_client_SIT_path_be
 ^/uat/site-instant-v2(/.*)?$ pentagon_l2_instant_game_v2_client_UAT_path_be
 ^/uat/site-126(/.*)?$ pentagon_l2_poseidons_realm_client_UAT_path_be
