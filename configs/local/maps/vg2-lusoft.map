@@ -1,3 +1,4 @@
+l2-mini-old.lumigame.com pentagon_l2_instant_game_client_LOCAL_be
 l2-langlive-simulator.lumigame.com pentagon_l2_lang_live_simulator_LOCAL_be
 l2-admin2.lumigame.com pentagon_l2_admin_site_LOCAL_2_be
 l2-admin1.lumigame.com pentagon_l2_admin_site_LOCAL_1_be
@@ -44,7 +45,6 @@ l2-ows.lumigame.com l2_ow_api_simulator_LOCAL_be
 l2-result.luminetsoft.com l2_game_result_LOCAL_be
 l2-guide.luminetsoft.com l2_game_guides_LOCAL_be
 l2-gw.luminetsoft.com l2_socket_gateway_LOCAL_be
-l2-mini.luminetsoft.com l2_instant_game_client_LOCAL_be
 l2-keno.luminetsoft.com l2_game_client_mega_keno_mobi_LOCAL_be
 
 #L2 LOCAL1
