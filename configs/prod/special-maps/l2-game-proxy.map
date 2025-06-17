@@ -1,5 +1,5 @@
 ^/rngsoccer(/.*)?$ pentagon_l2_rng_soccer_service_PROD_path_be
-^/site-130(/.*)?$ pentagon_l2_aladdin_client_PROD_path_be
+^/site-130(/.*)?$ pentagon_l2_aladdins_wishes_client_PROD_path_be
 ^/aladdin(/.*)?$ pentagon_l2_aladdin_service_PROD_path_be
 ^/direct-client-4(/.*)?$ pentagon_l2_direct_turbo_big_small_game_client_PROD_path_be
 ^/direct-client-114(/.*)?$ pentagon_l2_direct_marble_football_2_client_PROD_path_be
