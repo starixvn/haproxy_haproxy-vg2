@@ -1,3 +1,4 @@
+^/site-129(/.*)?$ pentagon_l2_wild_west_most_wanted_client_PROD_path_be
 ^/wildwestmostwanted(/.*)?$ pentagon_l2_wild_west_most_wanted_service_PROD_path_be
 ^/happyfarm(/.*)?$ pentagon_l2_happy_farm_service_PROD_path_be
 ^/site-131(/.*)?$ pentagon_l2_happy_farm_client_PROD_path_be
