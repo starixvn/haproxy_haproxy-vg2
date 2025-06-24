@@ -1,3 +1,4 @@
+^/site-127(/.*)?$ pentagon_l2_mahjong_wins_client_PROD_path_be
 ^/mahjongwins(/.*)?$ pentagon_l2_mahjong_wins_service_PROD_path_be
 ^/site-129(/.*)?$ pentagon_l2_wild_west_most_wanted_client_PROD_path_be
 ^/wildwestmostwanted(/.*)?$ pentagon_l2_wild_west_most_wanted_service_PROD_path_be
