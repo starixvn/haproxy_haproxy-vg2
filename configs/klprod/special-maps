@@ -1,3 +1,4 @@
+^/happyfarm(/.*)?$ pentagon_l2_happy_farm_service_KLPROD_path_be
 ^/aladdinswishes(/.*)?$ pentagon_l2_aladdins_wishes_service_KLPROD_path_be
 ^/site-130(/.*)?$ pentagon_l2_aladdins_wishes_client_KLPROD_path_be
 ^/direct-client-114(/.*)?$ pentagon_l2_direct_marble_football_2_client_KLPROD_path_be
