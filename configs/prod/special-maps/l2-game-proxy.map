@@ -1,7 +1,7 @@
+^/site-128(/.*)?$ pentagon_l2_aztec_princess_client_PROD_path_be
 ^/fruitsamurai(/.*)?$ pentagon_l2_fruit_samurai_service_PROD_path_be
 ^/aztecprincess(/.*)?$ pentagon_l2_aztec_princess_service_PROD_path_be
 ^/site-132(/.*)?$ pentagon_l2_fruit_samurai_client_PROD_path_be
-^/site-128(/.*)?$ pentagon_l2_aztec_princess_client_PROD_path_be
 ^/site-127(/.*)?$ pentagon_l2_mahjong_wins_client_PROD_path_be
 ^/mahjongwins(/.*)?$ pentagon_l2_mahjong_wins_service_PROD_path_be
 ^/site-129(/.*)?$ pentagon_l2_wild_west_most_wanted_client_PROD_path_be
