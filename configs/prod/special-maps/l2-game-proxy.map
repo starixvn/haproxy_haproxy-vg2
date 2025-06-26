@@ -1,3 +1,4 @@
+^/aztecprincess(/.*)?$ pentagon_l2_aztec_princess_service_PROD_path_be
 ^/site-132(/.*)?$ pentagon_l2_fruit_samurai_client_PROD_path_be
 ^/site-128(/.*)?$ pentagon_l2_aztec_princess_client_PROD_path_be
 ^/site-127(/.*)?$ pentagon_l2_mahjong_wins_client_PROD_path_be
