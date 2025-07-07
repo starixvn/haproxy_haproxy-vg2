@@ -1,3 +1,4 @@
+^/uat/vivafiesta(/.*)?$ pentagon_l2_viva_fiesta_service_UAT_path_be
 ^/sit/coinmining(/.*)?$ pentagon_l2_coin_mining_service_SIT_path_be
 ^/uat/coinmining(/.*)?$ pentagon_l2_coin_mining_service_UAT_path_be
 ^/sit/tapfortune(/.*)?$ pentagon_l2_tap_fortune_service_SIT_path_be
